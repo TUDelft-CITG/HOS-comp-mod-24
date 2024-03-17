@@ -1,6 +1,7 @@
 ---
 title: 1) Unit Information - Computational Dynamics Course
 layout: home
+nav_order: 1
 ---
 # Information about this Unit
 

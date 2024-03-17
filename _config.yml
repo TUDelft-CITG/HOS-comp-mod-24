@@ -45,3 +45,14 @@ color_scheme: light
 
 # Supports true (default) or false
 heading_anchors: true
+
+callouts:
+  exercises:
+    title: Exercises
+    color: green
+  important:
+    title: Important
+    color: purple
+  takeaways:
+    title: Take aways
+    color: blue
