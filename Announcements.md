@@ -1,4 +1,4 @@
 ---
-title: 3) Unit Information - Computational Dynamics Course
+title: 3) Announcements
 layout: default
 ---
