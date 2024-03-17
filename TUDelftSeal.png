@@ -1,0 +1,2991 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="nl-NL">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2024 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<title>Downloads</title>
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta property="og:site_name" content="TU Delft" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Downloads" />
+<meta property="og:image" content="https://www.tudelft.nl/typo3conf/ext/site_tud/Resources/Public/Images/OpenGraph/TUDelft.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="google-site-verification" content="vShvXo6q-uO9k9SNJyGlW9uV3m6LmjyO00PR-Ts7hYQ" />
+
+
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/site_tud/Resources/Public/StyleSheets/dist.style.e67b544743.min.css" media="all">
+<style type="text/css">
+/*<![CDATA[*/
+<!-- 
+/*MaxServ\FoundationFramework\ViewHelpers\InlineCssViewHelperc81962dd9c338d745829b41b6facec2e*/
+
+            .frame-space-after--40 { margin-bottom: -40px !important; }
+        
+-->
+/*]]>*/
+</style>
+
+
+<script src="/typo3conf/ext/tud_styling/Resources/Public/JavaScript/Vendor/modernizr.min.js"></script>
+<script src="/typo3temp/assets/js/6d999f1aea.js"></script>
+
+
+<script type="text/javascript">			var _wfl={fonts:[
+			{family:"roboto", weight: 300},
+			{family:"roboto", weight: 100},
+			],isLoaded:function(){return document.cookie.indexOf("fontsLoaded")>=0},afterLoad:function(){document.documentElement.className+=" fontsLoaded",document.cookie="fontsLoaded=1; path=/"}};!function(){var e;if(_wfl.isLoaded())_wfl.afterLoad();else if(void 0!==document.fonts&&void 0!==window.Promise){document.fonts.onloadingerror=function(){console.error("Font error",arguments)};var o=_wfl.fonts.map(function(e){return e.family});e=document.addEventListener("DOMContentLoaded",function(){document.removeEventListener("DOMContentLoaded",e);var n=[];document.fonts.forEach(function(e){o.indexOf(e.family)>=0&&n.push(e.load())}),Promise.all(n).then(_wfl.afterLoad)})}else{var n=document.createElement("script");n.type="text/javascript",n.src=
+			"/typo3conf/ext/tud_styling/Resources/Public/JavaScript/Vendor/asyncfontloader.min.js"
+			,n.async=!0,e=window.addEventListener("DOMContentLoaded",function(){document.removeEventListener("DOMContentLoaded",e),document.head.appendChild(n)})}}();</script><style>
+.nav-tab a.is-active {
+    color: white !important;
+}
+a.is-active {background-color: #00a6d6;}
+.paging a.is-active {color:white; background-color: #BABABA; border-color: #BABABA;}
+.tab--red a.is-active {background-color: #E21A1A;}
+.tab--green a.is-active {background-color: #A5CA1A;}
+.tab--black a.is-active {background-color: #222;}
+.tab--white a.is-active {background-color: #fff; color:#000;}
+.tab--blue_lighter a.is-active {background-color: #D9F0F6;}
+.tab--blue_light a.is-active {background-color: #6EBBD5;}
+.tab--blue_dark a.is-active {background-color: #1E6188;}
+.tab--teal a.is-active {background-color: #008891;}
+.tab--yellow a.is-active {background-color: #FFC400;}
+.tab--orange a.is-active {background-color: #E64616;}
+.tab--purple a.is-active {background-color: #1C1C73;}
+.tab--purple_light a.is-active {background-color: #6D177F;}
+.tab--grey_dark a.is-active {background-color: #505050;}
+.tab--grey a.is-active {background-color: #9B9B9B;}
+.tab--grey_medium a.is-active {background-color: #BABABA;}
+.tab--grey_light a.is-active {background-color: #E7E7E7; color:#000;}
+.tab--pink a.is-active {background-color: #DB028C;}
+
+.nav-tab {
+    font-family: 'Roboto Slab', Roboto;
+}
+.nav-tab a {
+    padding: .5rem .5rem 0.3rem;
+}
+.nav-tab~* {
+    border: 0;
+}
+</style>  <style>
+/* .i-search fix */
+/* .nav-main .i-search span {display: initial;} */
+  
+/* flexbox referenties fix */
+.row--equalHeightContentElements > div > .frame-type-shortcut {
+  flex-grow: 1;
+  display: inherit;
+}
+  
+/* linkkleur in zwarte magazine nav */
+.bg-black.magazine-navigation a {color:white;}   
+
+/* contrast patch voor dynamic header */
+/*  .contrast .dynamicHeader-slideLink {
+  background-color: #000d;
+  border-radius: 3px;
+  padding-left: 5px;
+}
+
+.contrast .dynamicHeader-slideTitle, .contrast .dynamicHeader-slideDescription {
+  color: white;
+} */
+  
+  
+  /* Twitter / X icon */
+
+i-twitter-after::after, .i-twitter::before {
+  content: "𝕏";
+  width: 22px;
+  height: 22px;
+  }
+  
+  
+/* Grid Card background fix */
+.grid-background--black .card__img + .card__content {color:black;} 
+.grid-background--black .label {color:#999;}
+  
+/* Transparent topnav fixes */
+.bg-transparent .nav-main__mainitem>a {text-shadow: 0px 0px 3px #888;} 
+.bg-transparent .btn--languageSwitch:after, .bg-transparent .i-search:after {box-shadow: 0 0 2px #888, 0 0 1px #888 inset;} 
+.bg-transparent .icon-languageSwitch, .bg-transparent .btn--icon:before {filter: drop-shadow(0px 0px 4px lightgrey);} 
+.carousel .btn--round, .carousel .slick-arrow {filter: drop-shadow(0px 0px 3px #888);}
+
+/* Accordion title fix */
+.accordion__title:before {font-size: .7rem;padding: .4rem;}
+
+/* Card text size reduction */
+.frame-type-lookup_results .card__content:not(h3){font-size: .9rem;} 
+.user-content h3 {margin-top:initial;}
+
+/* Blockquote edits*/ 
+.frame-type-sitetud_quote>div{clear:both;} 
+  /* blockquote {float:none; padding-top: .5em; padding-bottom: 0;} */ /* disabled on 29-1-2024 */
+   blockquote cite {margin-top: 0rem; margin-bottom: 10px;} 
+   blockquote img {margin-top: -10px;} 
+   img + cite {margin-top: 2.5rem;margin-bottom: 2.5em} 
+   blockquote.quote-title-size--large img {margin-top:-30px;} 
+   blockquote.quote-title-size--medium img + cite {margin-bottom: 3em;} 
+   blockquote.quote-title-size--medium p {line-height:1.5;}  
+
+/* Fix of header slider loading issues */ 
+   /*.poster {display:none;} 
+   .poster.is-loaded {display:block;}
+   .headerBanner-content {display:initial;}*/
+                                               
+/* Form fixes */
+   .tx-powermail .checkbox, .tx-powermail .radio {display:block !important;}
+   form {max-width: 100%;} 
+
+                                               
+/* blauwe link in cookiemelding */
+.cookieNotice a {color: #00a6d6 ;}
+.cookieNotice .statement_expand:hover {color: #0066a2; text-decoration: underline dotted;}
+
+/* Huisstijlfixes */
+button.accordion__button {font-family:'Roboto Slab';}
+.accordion__title {font-family:'Roboto Slab';}
+
+                                       
+/* override align-justify in text-elements (WCAG) */
+.frame-type-text .align-justify , p.align-justify {text-align: initial;}
+                                       
+/* Spotler form layout */
+  .mpFormTable, .mpFormTable table {width:100%;}
+  .mpFormLabel {width:30%;}
+  .mpFormField {width:70%;}
+  .mpFormTable .sublabel {font-size: .7em; font-style: italic;}
+  .submitCellSpacer {display:none;}
+  .mpFormTable li {list-style: none;}
+  .mpFormTable ul {padding-inline-start: 0;}
+  .mpMultipleLabel {margin-left:10px;}
+                                       
+/* aside column fix on mobiles */ 
+@media only screen and (max-width: 1024px) {
+  .u-flex {flex-direction: column;}
+  .u-flex.js-contrastChanger {flex-direction: initial;}
+}
+                                       
+/* .accordion padding */
+.accordion .grid > * {padding-bottom: initial;}
+                                       
+/* magazine styling 
+.bg-white.magazine-navigation .magazine-navigation-logoLink.btn--icon::after {border: 1px solid #222;}
+.bg-black.magazine-navigation a {color: #fff;}
+.bg-transparent.magazine-navigation {background: linear-gradient(#fffb 10%, #00a6d675);}
+.bg-transparent.magazine-navigation .magazine-navigation-logoLink.btn--icon::after {border: 1px solid #00a6d6;}
+.bg-transparent.magazine-navigation a {color: #00a6d6;}  
+@media only screen and (max-width: 25.2em) {.magazine-navigation {bottom: 7.5rem;}}
+
+.nav-overlay.nav-overlay-magazine.is-active  {background-color: #0c2340e8; padding:4rem; left:15vw; right:15vw; top:10vh; bottom:20vh}
+  */
+  
+/* show-for-xlarge on chrome */
+
+@media screen and (min-width:79.9375em) and (max-width:80em) {
+ .show-for-xlarge {
+  display:initial !important; }
+}  
+                                              
+/* zwart font voor witte buttons */
+.btn--white {color: #222;}
+
+  @media print {
+.nav-bottom {display: none;}
+  }
+             
+/* border-radius dynamic-header blocks */
+.dynamicHeader-block {border-radius: 3px;}
+             
+/* icons on popup menu */
+/* @media only screen and (max-width:350px) {
+  .nav-overlay__container .frame-type-sitetud_socialmedialinks .list-inline {
+  --column-amount: 4;
+  display: grid;
+  grid-template-columns: repeat(var( --column-amount), 0fr);
+  grid-gap: 0;
+  place-items: center;
+  margin: 0;
+  justify-content: center;
+  padding-top: 3em;
+}}
+             
+@media only screen and (min-width:350px) and (max-width: 450px){
+  .nav-overlay__container .frame-type-sitetud_socialmedialinks .list-inline {
+  --column-amount: 6;
+  display: grid;
+  grid-template-columns: repeat(var( --column-amount), 0fr);
+  grid-gap: 0;
+  place-items: center;
+  margin: 0;
+  justify-content: center;
+  padding-top: 3em;
+}}
+@media only screen and (min-width:450px){
+  .nav-overlay__container .frame-type-sitetud_socialmedialinks .list-inline {
+    padding-top:3em;
+  }
+} */
+                                     
+/* adjusting footernav on mobile */
+@media only screen and (max-width:405px) {
+  .nav-bottom .logo {width: 100%;
+position: relative;
+display: grid;
+  justify-content: center;
+  padding-bottom: 0.3em;
+  border-right: initial;}
+  
+ .nav-bottom .logo.left {
+    border-bottom: 1px solid #fff;
+  }
+  }
+
+
+                                       
+</style>
+
+<style>
+.profile a:not(.btn--icon) {color: #00a6d6;} 
+.profile {color:#222;}
+
+/* alle contactblokken met 2 regels voor de naam */
+.profile .box h3 {min-height:54.6px;}
+</style><script type="text/javascript">var cookieNoticeConfig = cookieNoticeConfig || {};cookieNoticeConfig.flags = {};cookieNoticeConfig.flags.EXTERNAL = 3;cookieNoticeConfig.flags.ANALYTICAL = 50;cookieNoticeConfig.labels = {statement_short: 'Deze%20website%20maakt%20gebruik%20van%20cookies.%20Wanneer%20u%20op%20%E2%80%9CIk%20ga%20akkoord%E2%80%9D%20klikt%2C%20geeft%20u%20toestemming%20voor%20het%20gebruik%20van%20cookies.',statement_detail: 'TU%20Delft%20gebruikt%20cookies%20om%20het%20gebruiksgemak%20voor%20onze%20bezoekers%20te%20verhogen.%20Door%20middel%20van%20cookies%20meten%20we%20gebruikersinteractie.%20Een%20cookie%20kan%20geen%20persoonlijke%20informatie%20bevatten%2C%20zoals%20een%20telefoonnummer%20of%20e-mailadres%2C%20zodoende%20kunnen%20cookies%20dus%20niet%20gebruikt%20worden%20voor%20ongevraagde%20telemarketing%20of%20e-mail%20nieuwsbrieven.%3Cbr%2F%3E%3Cbr%20%2F%3EDaarnaast%20gebruiken%20wij%20incidenteel%20externe%20content%20om%20gebruikerservaringen%20te%20verbeteren%3B%20deze%20content%20kan%20mogelijk%20cookies%20van%20externe%20partijen%20bevatten%2C%20van%20bijvoorbeeld%20sociale%20media%20platformen.%20Zonder%20uw%20toestemming%20zullen%20we%20deze%20onderdelen%20dan%20ook%20afschermen.',statement_expand: 'Wat%20zijn%20cookies%3F',agree: 'Ik%20ga%20akkoord',link_policy: 'Meer%20informatie%20over%20cookies%20vindt%20u%20in%20ons%20cookiebeleid.',disagree: 'Ik%20ga%20niet%20akkoord'};cookieNoticeConfig.hitsBeforeImplicitConsent =-1;cookieNoticeConfig.cookiePolicyDetailPage = '/cookiebeleid';cookieNoticeConfig.consentChangeCallbacks = [];cookieNoticeConfig.showDisagreeButton =true;cookieNoticeConfig.expiresInMonths =6;cookieNoticeConfig.defaultCookieLevel =1;cookieNoticeConfig.consentedCookieName = '__cookieNotice_consent';cookieNoticeConfig.hitCountCookieName = '__cookieNotice_hit';</script><script type="text/javascript">var tx_solr_suggestUrl = '/?eID=tx_solr_suggest&id=150324';</script><script type="text/javascript">			(function () {
+				if (document.cookie.indexOf("contrast") >= 0) {
+					document.documentElement.className += " contrast";
+				}
+			}());</script><link rel="apple-touch-icon" sizes="57x57" href="/typo3conf/ext/tud_styling/Resources/Public/img/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/typo3conf/ext/tud_styling/Resources/Public/img/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/typo3conf/ext/tud_styling/Resources/Public/img/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/typo3conf/ext/tud_styling/Resources/Public/img/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/typo3conf/ext/tud_styling/Resources/Public/img/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/typo3conf/ext/tud_styling/Resources/Public/img/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/typo3conf/ext/tud_styling/Resources/Public/img/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/typo3conf/ext/tud_styling/Resources/Public/img/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/typo3conf/ext/tud_styling/Resources/Public/img/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/typo3conf/ext/tud_styling/Resources/Public/img/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/typo3conf/ext/tud_styling/Resources/Public/img/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/typo3conf/ext/tud_styling/Resources/Public/img/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/typo3conf/ext/tud_styling/Resources/Public/img/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/typo3conf/ext/tud_styling/Resources/Public/img/manifest.json">
+<link rel="mask-icon" href="/typo3conf/ext/tud_styling/Resources/Public/img/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/typo3conf/ext/tud_styling/Resources/Public/img/favicon.ico">
+<meta name="msapplication-TileColor" content="#2d89ef">
+<meta name="msapplication-TileImage" content="/typo3conf/ext/tud_styling/Resources/Public/img/mstile-144x144.png">
+<meta name="msapplication-config" content="/typo3conf/ext/tud_styling/Resources/Public/img/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<link rel="canonical" href="https://www.tudelft.nl/library/actuele-themas/open-publishing/downloads"/>
+
+<link rel="alternate" hreflang="nl-NL" href="https://www.tudelft.nl/library/actuele-themas/open-publishing/downloads"/>
+<link rel="alternate" hreflang="en-US" href="https://www.tudelft.nl/en/library/current-topics/open-publishing/downloads"/>
+<link rel="alternate" hreflang="x-default" href="https://www.tudelft.nl/library/actuele-themas/open-publishing/downloads"/>
+<!-- This site is optimized with the Yoast SEO for TYPO3 plugin - https://yoast.com/typo3-extensions-seo/ -->
+<script type="application/ld+json">[{"@context":"https:\/\/www.schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.tudelft.nl\/","name":"Technische Universiteit Delft"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/www.tudelft.nl\/faculteiten-en-diensten","name":"Faculteiten en Diensten"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/www.tudelft.nl\/library","name":"Library"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/www.tudelft.nl\/library\/actuele-themas","name":"Actuele thema's"}},{"@type":"ListItem","position":5,"item":{"@id":"https:\/\/www.tudelft.nl\/library\/actuele-themas\/open-publishing","name":"TU Delft OPEN Publishing"}},{"@type":"ListItem","position":6,"item":{"@id":"https:\/\/www.tudelft.nl\/library\/actuele-themas\/open-publishing\/downloads","name":"Downloads"}}]}]</script>
+</head>
+<body class="page-150324">
+			<script type="text/javascript">
+				/*<![CDATA[*/
+				cookieNoticeConfig.consentChangeCallbacks.push({
+					type: cookieNoticeConfig.flags.ANALYTICAL,
+					callback: function () {
+						(function() {
+							var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+							sz.src = '//siteimproveanalytics.com/js/siteanalyze_6005654.js';
+							var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+						})();
+					}
+				});
+				/*]]>*/
+			</script><script id="powermail_conditions_container" data-condition-uri="https://www.tudelft.nl/library/actuele-themas/open-publishing/downloads?type=3132"></script><style>
+.card--no_image.card--red,.btn--ghost.btn--red:hover, .highlight--vertical .highlight--red, .highlight--red::after, .hoverableBlock--red::after,[class*="--red"]:not([class*="dynamicHeader"], [class*="searchForm"], [class*="hoverableBlock"], [class*="highlight"], .btn--ghost, .btn:hover, .moreLink, .nav-inpage, .ce-div, .navColored--red, .content-slider--red, .card--red, .accordion__title--red, .nav-inpage--red) {background-color: #E03C31;} 
+.card--no_image.card--green, .btn--ghost.btn--green:hover, .highlight--vertical .highlight--green, .highlight--green::after, .hoverableBlock--green::after,[class*="--green"]:not([class*="dynamicHeader"], [class*="searchForm"], [class*="hoverableBlock"], [class*="highlight"], .btn--ghost, .btn:hover, .moreLink, .nav-inpage, .ce-div, .navColored--green, .content-slider--green, .card--green, .accordion__title--green, .nav-inpage--green ) {background-color: #6CC24A;}
+.card--no_image.card--blue_dark,.btn--ghost.btn--blue_dark:hover, .highlight--vertical .highlight--blue_dark, .highlight--blue_dark::after, .hoverableBlock--blue_dark::after,[class*="--blue_dark"]:not([class*="dynamicHeader"], [class*="searchForm"], [class*="hoverableBlock"], [class*="highlight"], .btn--ghost, .btn:hover, .moreLink, .nav-inpage, .ce-div, .navColored--blue_dark, .content-slider--blue_dark, .card--blue_dark, .accordion__title--blue_dark, .nav-inpage--blue_dark) {background-color: #0C2340;}
+.card--no_image.card--yellow, .btn--ghost.btn--yellow:hover, .highlight--vertical .highlight--yellow, .highlight--yellow::after, .hoverableBlock--yellow::after,[class*="--yellow"]:not([class*="dynamicHeader"], [class*="searchForm"], [class*="hoverableBlock"], [class*="highlight"], .btn--ghost, .btn:hover, .moreLink, .nav-inpage, .ce-div, .navColored--yellow, .content-slider--yellow, .card--yellow, .accordion__title--yellow, .nav-inpage--yellow) {background-color: #FFB81C;}
+.card--no_image.card--orange, .btn--ghost.btn--orange:hover, .highlight--vertical .highlight--orange, .highlight--orange::after, .hoverableBlock--orange::after,[class*="--orange"]:not([class*="dynamicHeader"], [class*="searchForm"], [class*="hoverableBlock"], [class*="highlight"], .btn--ghost, .btn:hover, .moreLink, .nav-inpage, .ce-div, .navColored--orange, .content-slider--orange, .card--orange, .accordion__title--orange, .nav-inpage--orange) {background-color: #EC6842;}
+.card--no_image.card--purple, .btn--ghost.btn--purple:hover, .highlight--vertical .highlight--purple, .highlight--purple::after, .hoverableBlock--purple::after,[class*="--purple"]:not([class*="dynamicHeader"], [class*="searchForm"], [class*="hoverableBlock"], [class*="highlight"], .btn--ghost, .btn:hover, .moreLink, .nav-inpage, .ce-div, .navColored--purple, , .content-slider--purple, .card--purple, .accordion__title--purple, .nav-inpage--purple) {background-color: #6F1D77;}
+.card--no_image.card--purple_light, .btn--ghost.btn--purple_light:hover, .highlight--vertical .highlight--purple_light, .highlight--purple_light::after, .hoverableBlock--purple_light::after, [class*="--purple_light"]:not([class*="dynamicHeader"], [class*="searchForm"], [class*="hoverableBlock"], [class*="highlight"], .btn--ghost, .btn:hover, .moreLink, .nav-inpage, .ce-div, .navColored--purple_light, .content-slider--purple_light, .card--purple_light, .accordion__title--purple_light, .nav-inpage--purple_light) {background-color: #6F1D77;}
+.card--no_image.card--pink, .btn--ghost.btn--pink:hover, .highlight--vertical .highlight--pink, .highlight--pink::after, .hoverableBlock--pink::after, [class*="--pink"]:not([class*="dynamicHeader"], [class*="searchForm"], [class*="hoverableBlock"], [class*="highlight"], .btn--ghost, .btn:hover, .moreLink, .nav-inpage, .ce-div, .navColored--pink, .content-slider--pink, .card--pink, .accordion__title--pink, .nav-inpage--pink ) {background-color: #EF60A3;}
+.card--no_image.card--teal, .btn--ghost.btn--teal:hover, .highlight--vertical .highlight--teal, .highlight--teal::after, .hoverableBlock--teal::after, [class*="--teal"]:not([class*="dynamicHeader"], [class*="searchForm"], [class*="hoverableBlock"], [class*="highlight"], .btn--ghost, .btn:hover, .moreLink, .nav-inpage, .ce-div, .navColored--teal, .content-slider--teal, .card--teal, .accordion__title--teal, .nav-inpage--teal) {background-color: #00B8C8;} 
+
+.btn--ghost.btn--red, .notice--red .btn:not(.btn--ghost), .fact [class*="-red"] {color:#E03C31;}
+.btn--ghost.btn--green, .notice--green .btn:not(.btn--ghost), .fact [class*="-green"] {color:#6CC24A;}
+.btn--ghost.btn--blue_dark, .notice--blue_dark .btn:not(.btn--ghost), .fact [class*="-blue_dark"] {color:#0C2340;}
+.btn--ghost.btn--yellow, .notice--yellow .btn:not(.btn--ghost), .fact [class*="-yellow"] {color:#FFB81C;}
+.btn--ghost.btn--orange, .notice--orange .btn:not(.btn--ghost), .fact [class*="-orange"] {color:#EC6842;}
+.btn--ghost.btn--purple, .notice--purple .btn:not(.btn--ghost), .fact [class*="-purple"] {color:#6F1D77;}
+.btn--ghost.btn--purple_light, .notice--purple_light .btn:not(.btn--ghost), .fact [class*="-purple_light"] {color:#6F1D77;}
+.btn--ghost.btn--pink, .notice--pink .btn:not(.btn--ghost), .fact [class*="-pink"] {color:#EF60A3;}
+.btn--ghost.btn--teal, .notice--teal .btn:not(.btn--ghost), .fact [class*="-teal"] {color:#00B8C8;}
+                                                                                                                                 
+.dynamicHeader-block--red {background-color: rgba(224, 60, 49, var(--block-opacity))}
+.dynamicHeader-block--green {background-color: rgba(108, 194, 74, var(--block-opacity))}
+.dynamicHeader-block--blue_dark {background-color: rgba(12, 35, 64, var(--block-opacity))}
+.dynamicHeader-block--yellow {background-color: rgba(255, 184, 28, var(--block-opacity))}
+.dynamicHeader-block--orange {background-color: rgba(237, 104, 66, var(--block-opacity))}
+.dynamicHeader-block--purple {background-color: rgba(111, 29, 119, var(--block-opacity))}
+.dynamicHeader-block--purple_light {background-color: rgba(111, 29, 119, var(--block-opacity))}
+.dynamicHeader-block--pink {background-color: rgba(239, 96, 163, var(--block-opacity))}
+.dynamicHeader-block--teal {background-color: rgba(0, 184, 200, var(--block-opacity))}
+
+.card--red h3 {color:#E03C31;}
+.card--red.card--horizontalTiny .card__content::after, .card--red::after, .card--red.card--no_image[href]::after {background-color:#E03C31;}
+
+.card--green h3 {color:#6CC24A;}
+.card--green.card--horizontalTiny .card__content::after, .card--green::after, .card--green.card--no_image[href]::after {background-color:#6CC24A;}
+
+.card--blue_dark h3 {color:#0C2340;}
+.card--blue_dark.card--horizontalTiny .card__content::after, .card--blue_dark::after, .card--blue_dark.card--no_image[href]::after {background-color:#0C2340;}
+
+.card--yellow h3 {color:#FFB81C;}
+.card--yellow.card--horizontalTiny .card__content::after, .card--yellow::after, .card--yellow.card--no_image[href]::after {background-color:#FFB81C;}
+
+.card--orange h3 {color:#EC6842;}
+.card--orange.card--horizontalTiny .card__content::after, .card--orange::after, .card--orange.card--no_image[href]::after {background-color:#EC6842;}
+
+.card--purple h3 {color:#6F1D77;}
+.card--purple.card--horizontalTiny .card__content::after, .card--purple::after, .card--purple.card--no_image[href]::after {background-color:#6F1D77;}
+
+.card--purple_light h3 {color:#6F1D77;}
+.card--purple_light.card--horizontalTiny .card__content::after, .card--purple_light::after, .card--purple_light.card--no_image[href]::after {background-color:#6F1D77;}
+
+.card--pink h3 {color:#EF60A3;}
+.card--pink.card--horizontalTiny .card__content::after, .card--pink::after, .card--pink.card--no_image[href]::after {background-color:#EF60A3;}
+
+.card--teal h3 {color:#00B8C8;}
+.card--teal.card--horizontalTiny .card__content::after, .card--teal::after, .card--teal.card--no_image[href]::after {background-color:#00B8C8;}
+
+.divider--red, .nav-inpage.nav-inpage--red {border-color:#E03C31;}
+.divider--green, .nav-inpage.nav-inpage--green {border-color:#6CC24A;}
+.divider--blue_dark, .nav-inpage.nav-inpage--blue_dark {border-color:#0C2340;}                                                             
+.divider--yellow, .nav-inpage.nav-inpage--yellow {border-color:#FFB81C;}
+.divider--orange, .nav-inpage.nav-inpage--orange {border-color:#EC6842;}
+.divider--purple_light, .nav-inpage.nav-inpage--purple_light {border-color:#6F1D77;}
+.divider--purple, .nav-inpage.nav-inpage--purple {border-color:#6F1D77;}       
+.divider--pink, .nav-inpage.nav-inpage--pink {border-color:#EF60A3;}
+.divider--teal, .nav-inpage.nav-inpage--teal {border-color:#00B8C8;}               
+
+.tab--blue_dark a {color: white;}
+                                                                                                                     </style>
+
+
+
+
+    
+        
+        
+    
+        
+        
+    
+
+
+
+
+
+
+
+
+    <a href="#" class="skiplink btn btn--single align-center btn--grey_dark u-flex js-contrastChanger">
+        <svg role="presentation" class="icon-contrast">
+            <use xlink:href="/typo3conf/ext/tud_styling/Resources/Public/img/contrast-icon.svg#contrast-icon"></use>
+        </svg>
+        <span class="js-contrastChanger-label" data-highcontrasttext="Activeer hoog contrast" data-normalcontrasttext="Activeer normaal contrast">
+            Activeer hoog contrast
+        </span>
+    </a>
+    <a href="#main" class="skiplink btn btn--single align-center btn--grey_dark">
+        Ga naar hoofdcontent
+    </a>
+
+<!-- Add logo as early as possible in HTML so placeholder renders correctly -->
+<svg class="hidden" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="logo" viewBox="0 0 105 41">
+        <path fill="currentColor" fill-rule="evenodd" d="M30.5 36.73c2.62 0 4.03-1.74 4.03-4.18V20.12h5.56v12.71c-.06 5.6-4.53 7.8-9.59 7.8-5.05 0-9.53-2.2-9.58-7.8v-12.7h5.55v12.42c0 2.44 1.42 4.18 4.03 4.18M77.18 33.73v-1.31c0-3.87-2.2-6.6-6.15-6.6-4.41 0-6.47 3.42-6.47 7.52 0 4.12 1.78 7.29 6.25 7.29 3.34 0 5.78-1.59 6.2-4.76h-2.78c-.3 2.03-1.33 2.84-3.39 2.84-2.7 0-3.59-2.4-3.59-4.98h9.93zm-9.87-1.84c.02-2.18 1.34-4.15 3.53-4.15 2.55 0 3.55 1.76 3.55 4.15h-7.08zM80.37 20.12h2.65v20.1h-2.65v-20.1zM6.53 40.21h5.55V24.02h6.22v-3.9H.3v3.9h6.23v16.2M19.87 10.34c-1.35.42-2.75.08-2.75-1.73 0-2.77 6.49-5.09 7.4-7.5.21-.61.23-1.1-.06-1.1-.2.02-.04.32-.5.78-2.69 2.69-7.19 2.68-10.65 4.24-2.26 1.02-8.9 4.15-7.37 11.13.07.33.27 1.44.47 1.44.24 0 .23-.66.23-1.46-.05-4.16 4.86-5.32 6.46-8.04.2-.32.52-.77.6-.56.04.1.01.25-.05.54-.5 2.23-2.83 3.66-2.17 5.26.85 2.07 3.32.53 4.08-.8.2-.37.32-.6.46-.56.1.04.1.46.03.84-.4 2.4-.96 3.75-2.71 5.12-.56.43-1.44.52-1.33.86.03.09.41.08.71.05 4.68-.3 8.59-5.82 9.62-9.43.11-.25.14-.5.03-.58-.14-.1-.35.14-.56.33-.53.47-1.26.96-1.94 1.17M91.29 40.21V28.08h3.22v-1.84h-3.22V24c0-1.62.78-1.9 2.28-1.9.44 0 .89.06 1.33.09v-2.2a8.59 8.59 0 00-1.89-.28c-2.5 0-4.36 1.26-4.36 3.93v2.61h-2.72v1.84h2.72v12.13h2.64M96.03 26.24v1.84h2.38v8.9c0 1.86.03 3.65 3.95 3.65.61 0 1.18-.06 1.8-.17v-2.03c-.42.1-.96.17-1.38.17-.95 0-1.72-.48-1.72-1.48v-9.04h3.22v-1.84h-3.22v-3.8l-2.65.83v2.98h-2.38M48.43 22.51h4.1c4.64 0 6.56 3.5 6.56 7.66 0 4.15-1.92 7.65-6.56 7.65h-4.1v-15.3zm-2.79 17.7h6.9c8.57 0 9.47-7.27 9.47-10.04 0-2.77-.9-10.05-9.48-10.05h-6.89v20.1z"/>
+    </symbol>
+</svg>
+
+<nav class="bg-blue nav-top">
+	<div class="container no-spacing">
+		<a class="logo left" href="/">
+			<svg focusable="false" class="logo-tudelft--top" role="img">
+				<use xlink:href="#logo"></use>
+			</svg>
+			<span class="text-hide">Home van TU Delft</span>
+			
+			
+		</a>
+
+		<div class="right">
+			<div class="nav-main">
+				
+						<ul><li class="nav-main__mainitem" data-priority="0"><a href="/library/actuele-themas/open-publishing">Home</a></li><li class="nav-main__mainitem" data-priority="0"><a href="/library/actuele-themas/open-publishing/about/about-tudop">About</a><ul class="nav-main__submenu"><li><a href="/library/actuele-themas/open-publishing/about/authors-editors-info">Authors/Editors info</a></li><li><a href="/library/actuele-themas/open-publishing/about/mission-scope">Mission</a></li><li><a href="/library/actuele-themas/open-publishing/about/partnerships">Partnerships</a></li><li><a href="/library/actuele-themas/open-publishing/about/sponsoring-and-co-creation">Sponsoring and co-creation</a></li><li><a href="/library/actuele-themas/open-publishing/about/policies">Policies</a></li><li><a href="/library/actuele-themas/open-publishing/about/our-team">Our Team</a></li><li><a href="/library/actuele-themas/open-publishing/about/advisory-board">Advisory Board</a></li><li><a href="/library/actuele-themas/open-publishing/about/board-of-editors">Board of Editors</a></li><li><a href="/library/actuele-themas/open-publishing/about/think-tank">Think Tank</a></li><li><a href="/library/actuele-themas/open-publishing/about/our-history">Our History</a></li></ul></li><li class="nav-main__mainitem" data-priority="0"><a href="/library/actuele-themas/open-publishing/contact">Contact</a></li><li class="nav-main__mainitem" data-priority="0"><a href="https://www.tudelft.nl/open-science">Open Science</a></li></ul>
+					
+				
+
+
+    
+            
+        
+
+    
+            
+            
+        
+
+
+
+    <a href="/en/library/current-topics/open-publishing/downloads" title="Switch to the English language" class="btn--icon btn--languageSwitch" lang="en">
+        <div class="icon-languageSwitch icon-languageSwitch--nl"></div>
+    </a>
+
+
+
+				<button data-target=".nav-search" class="button-reset btn--icon i-search js-modal">
+					<span class="text-hide">Zoeken</span>
+				</button>
+			</div>
+		</div>
+	</div>
+</nav>
+
+
+
+
+<nav class="nav-overlay">
+	<div class="container no-spacing">
+		<ul class="list-reset nav-overlay__container"><li id="nav-overlay__mainitem--45958" data-priority="0"><div class="nav-overlay__mainitem"><a href="/library/actuele-themas/open-publishing">Home</a></div></li><li id="nav-overlay__mainitem--45947" data-priority="0">						<div class="nav-overlay__mainitem row">
+							<div class="sm-12"><a href="/library/actuele-themas/open-publishing/about/about-tudop">About</a>							<a href="#" data-altlabel="Menu sluiten" class="nav-overlay__toggle">
+								Menu openen
+							</a>								</div>
+							</div><ul class="list-reset row nav-overlay__subitemcontainer"><li class="sm-12"><a href="/library/actuele-themas/open-publishing/about/authors-editors-info" id="nav-overlay__subitem--144481" class="nav-overlay__subitem">Authors/Editors info</a></li><li class="sm-12"><a href="/library/actuele-themas/open-publishing/about/mission-scope" id="nav-overlay__subitem--47971" class="nav-overlay__subitem">Mission</a></li><li class="sm-12"><a href="/library/actuele-themas/open-publishing/about/partnerships" id="nav-overlay__subitem--160839" class="nav-overlay__subitem">Partnerships</a></li><li class="sm-12"><a href="/library/actuele-themas/open-publishing/about/sponsoring-and-co-creation" id="nav-overlay__subitem--146466" class="nav-overlay__subitem">Sponsoring and co-creation</a></li><li class="sm-12"><a href="/library/actuele-themas/open-publishing/about/policies" id="nav-overlay__subitem--63071" class="nav-overlay__subitem">Policies</a></li><li class="sm-12"><a href="/library/actuele-themas/open-publishing/about/our-team" id="nav-overlay__subitem--47750" class="nav-overlay__subitem">Our Team</a></li><li class="sm-12"><a href="/library/actuele-themas/open-publishing/about/advisory-board" id="nav-overlay__subitem--62129" class="nav-overlay__subitem">Advisory Board</a></li><li class="sm-12"><a href="/library/actuele-themas/open-publishing/about/board-of-editors" id="nav-overlay__subitem--121492" class="nav-overlay__subitem">Board of Editors</a></li><li class="sm-12"><a href="/library/actuele-themas/open-publishing/about/think-tank" id="nav-overlay__subitem--62717" class="nav-overlay__subitem">Think Tank</a></li><li class="sm-12"><a href="/library/actuele-themas/open-publishing/about/our-history" id="nav-overlay__subitem--55469" class="nav-overlay__subitem">Our History</a></li></ul></li><li id="nav-overlay__mainitem--45953" data-priority="0"><div class="nav-overlay__mainitem"><a href="/library/actuele-themas/open-publishing/contact">Contact</a></div></li><li id="nav-overlay__mainitem--48166" data-priority="0"><div class="nav-overlay__mainitem"><a href="https://www.tudelft.nl/open-science">Open Science</a></div></li><li>
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+
+    <div  class="t3ce    frame-type-sitetud_socialmedialinks 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+<h3 class="text-hide">Dit is het social media blok</h3>
+
+
+
+
+        
+        
+
+    
+    
+
+	<ul class="list-inline">
+		
+			
+					<li>
+						<a href="https://www.facebook.com/tudelft" target="_blank" class="btn--icon i-facebook" rel="noreferrer">
+							<span class="text-hide">
+								
+										facebook
+									
+							</span>
+						</a>
+					</li>
+				
+		
+			
+					<li>
+						<a href="https://twitter.com/tudelft" target="_blank" class="btn--icon i-twitter" rel="noreferrer">
+							<span class="text-hide">
+								
+										twitter
+									
+							</span>
+						</a>
+					</li>
+				
+		
+			
+					<li>
+						<a href="https://www.instagram.com/tudelft/?hl=en" target="_blank" class="btn--icon i-instagram" rel="noreferrer">
+							<span class="text-hide">
+								
+										instagram
+									
+							</span>
+						</a>
+					</li>
+				
+		
+			
+					<li>
+						<a href="https://www.youtube.com/user/tudelft" target="_blank" class="btn--icon i-youtube" rel="noreferrer">
+							<span class="text-hide">
+								
+										youtube
+									
+							</span>
+						</a>
+					</li>
+				
+		
+			
+					<li>
+						<a href="https://www.linkedin.com/edu/delft-university-of-technology-15445" target="_blank" class="btn--icon i-linkedin" rel="noreferrer">
+							<span class="text-hide">
+								
+										linkedin
+									
+							</span>
+						</a>
+					</li>
+				
+		
+			
+					<li>
+						<a href="https://api.whatsapp.com/send?phone=3197010256278" target="_blank" class="btn--icon i-whatsapp hide-for-xxlarge" rel="noreferrer">
+							<span class="text-hide">whatsapp</span>
+						</a>
+						<a href="https://wa.me/+3197010256278" title="Open Whatsapp conversation" target="_blank" class="btn--icon i-whatsapp show-for-xxlarge" rel="noreferrer">
+							<span class="text-hide">whatsapp</span>
+						</a>
+					</li>
+				
+		
+	</ul>
+
+
+
+
+
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+</li></ul>
+		<div class='language-switch'><a href="/en/library/current-topics/open-publishing/downloads" title="English" lang="en">English</a></div>
+
+		<ul class="list-inline">
+			<li>
+				
+
+<a href="/cookiebeleid" title="Cookie-instellingen" class="cookieButton btn--icon">
+    <svg viewBox="14 13 36 44" class="cookieButton-icon">
+        <circle cx="35.709" cy="22.973" fill="currentColor" r="2"/>
+        <circle cx="41.875" cy="29.417" fill="currentColor" r="2"/>
+        <circle cx="31.709" cy="31.417" fill="currentColor" r="2"/>
+        <circle cx="24.001" cy="37.25" fill="currentColor" r="2"/>
+        <circle cx="32" cy="42.292" fill="currentColor" r="2"/>
+        <circle cx="38.875" cy="37.25" fill="currentColor" r="2"/>
+        <path d="M32 50c-9.925 0-18-8.075-18-18 0-.505.034-1.001.074-1.494a1 1 0 0 1 1.269-.882c3.594 1.016 7.107-1.47 7.578-4.963a1 1 0 0 1 .858-.857 5.948 5.948 0 0 0 3.438-1.705 5.958 5.958 0 0 0 1.756-4.241c0-.78-.15-1.542-.447-2.266a1.002 1.002 0 0 1 .776-1.369A17.78 17.78 0 0 1 32 14c9.925 0 18 8.075 18 18s-8.075 18-18 18zM16.002 31.795A14.01 14.01 0 0 0 16 32c0 8.822 7.178 16 16 16s16-7.178 16-16-7.178-16-16-16c-.396 0-.801.019-1.233.058a7.91 7.91 0 0 1 .206 1.799 7.941 7.941 0 0 1-2.342 5.656 7.914 7.914 0 0 1-3.86 2.143c-.899 3.891-4.672 6.653-8.769 6.139z" fill="currentColor"/>
+    </svg>
+</a>
+
+
+			</li>
+			<li>
+				
+
+<a href="#" class="button-reset btn--icon btn-contrast js-contrastChanger" title="Contrast-instellingen">
+    <span class="js-contrastChanger-label text-hide" data-highcontrasttext="Activeer hoog contrast" data-normalcontrasttext="Activeer normaal contrast">
+        Activeer hoog contrast
+    </span>
+    <svg role="presentation" class="icon-contrast">
+        <use xlink:href="/typo3conf/ext/tud_styling/Resources/Public/img/contrast-icon.svg#contrast-icon"></use>
+    </svg>
+</a>
+
+			</li>
+		</ul>
+
+		<button class='menu menu--close button-reset js-toggle' data-target='.nav-overlay'>
+			<span class='i-close'>
+				<span class='text-hide'>
+					Sluit menu
+				</span>
+			</span>
+		</button>
+	</div>
+</nav>
+
+
+<div class="modal">
+	<div class="modal__content">
+		
+	<form action="/library/zoeken" method="get" class="nav-search">
+		<input type="search" name="q" id="headerSearchForm-input" value="" class="autocomplete-inputField" autocomplete="off" aria-label="Zoeken">
+		<button class="button-reset i-search">
+			<span class="text-hide">Zoeken</span>
+		</button>
+	</form>
+
+	</div>
+	<button data-target="this.parent" class="menu menu--close button-reset js-modal-close">
+		<span class="i-close">
+			<span class="text-hide">Sluit zoek</span>
+		</span>
+	</button>
+</div>
+
+
+
+
+
+
+
+
+	<main id="main" class="content__full-width">
+		<div class="container">
+			
+
+
+    <div class="breadcrumb-bar">
+        <nav class="breadcrumb">
+            <ul class="list-inline">
+                
+                    <li>
+                        <a href="/library/actuele-themas/open-publishing" title="TU Delft OPEN Publishing">TU Delft OPEN Publishing</a>
+                    </li>
+                
+                    <li>
+                        <a href="/library/actuele-themas/open-publishing/downloads" title="Downloads">Downloads</a>
+                    </li>
+                
+            </ul>
+        </nav>
+    </div>
+
+
+
+
+			<!--TYPO3SEARCH_begin-->
+			
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+        
+        
+    
+
+    <div id=c939744 class="t3ce    frame-type-header 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+        
+    
+        
+            
+
+    
+            <h1 class=" ">
+                Download logo&#039;s
+            </h1>
+        
+
+
+
+            
+
+
+
+        
+    
+
+    
+
+
+
+
+        
+        
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+        
+    
+
+    
+        
+        
+    
+
+    <div id=c939760 class="t3ce    frame-type-gridelements_pi1 
+             frame-space-after--40
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+
+
+
+
+        
+        
+        <div class="
+                    
+                    grid-background--boxed">
+            
+            
+        
+            <div class="row    grid  layout-0">
+                <div class="xs-12 sm-6 lg-3">
+                    
+
+
+        
+
+
+    
+        
+                
+
+
+        
+            
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+        
+        
+    
+
+    <div id=c939754 class="t3ce    frame-type-sitetud_singlebutton 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+        
+    
+        
+            
+
+    
+            
+        
+
+
+
+            
+
+
+
+        
+    
+
+    
+
+
+
+
+        
+        
+	
+			<a href="https://lib.tudelft.nl/img/ojs/TUDelftOPEN-logos.zip" class="btn
+					btn--single
+					align-left
+					
+					btn--teal
+					btn--borderBox" style="width: 100%;">
+				Download all logo&#039;s (zip)
+			</a>
+		
+
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+        
+    
+
+
+            
+    
+
+
+    
+
+
+                </div>
+                <div class="xs-12 sm-6 lg-3">
+                    
+
+
+        
+
+
+
+    
+
+
+                </div>
+                <div class="xs-12 sm-6 lg-3">
+                    
+
+
+        
+
+
+
+    
+
+
+                </div>
+                <div class="xs-12 sm-6 lg-3">
+                    
+
+
+        
+
+
+
+    
+
+
+                </div>
+            </div>
+        
+    
+        </div>
+    
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+        
+        
+    
+
+    <div id=c939763 class="t3ce    frame-type-text 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+        
+    
+        
+    
+
+    
+
+
+
+
+        
+        
+
+    <p>To download a logo seperately, click on the tile and with right mouse click &gt; Save image as</p>
+
+
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+        
+        
+    
+
+    <div id=c939736 class="t3ce    frame-type-gridelements_pi1 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+
+
+
+
+        
+        
+        <div class="
+                    
+                    grid-background--boxed">
+            
+            
+        
+            <div class="row    grid  layout-0">
+                <div class="xs-12 sm-6 lg-3">
+                    
+
+
+        
+
+
+    
+        
+                
+
+
+        
+            
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+        
+        
+    
+
+    <div id=c939737 class="t3ce    frame-type-sitetud_card 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+
+
+
+
+        
+        
+	
+	
+	
+	
+	
+
+	<div class="grid-row grid-row--halfHeight">
+		<div class="sm-12">
+			
+					
+							
+	
+			<a href="https://filelist.tudelft.nl/Library/Themaportalen/Open.tudelft.nl/publishing/logos/TUDelft-OPEN_logo_color.png" class="card
+					 
+					 card--halfHeight">
+
+				<div class="card__contentWrapper">
+					
+	
+			
+					<picture class="card__img card__img--939737" >
+						
+							<source media="(max-width: 40.063em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/2/4/csm_TUDelft-OPEN_logo_color_1480282135.webp" />
+							<source media="(max-width: 63.938em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/2/4/csm_TUDelft-OPEN_logo_color_5bac7e584f.webp" />
+							<source media="(min-width: 64em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/2/4/csm_TUDelft-OPEN_logo_color_1480282135.webp, https://filelist.tudelft.nl/_processed_/2/4/csm_TUDelft-OPEN_logo_color_86753ddb64.webp 1.5x" />
+						
+						
+							<img style="object-position: 50% 50%;" src="https://filelist.tudelft.nl/_processed_/2/4/csm_TUDelft-OPEN_logo_color_0359ff1ff2.png" width="960" height="429" alt="" />
+						
+					</picture>
+				
+		
+
+
+					<section class='card__content'>
+						
+						
+							<h3>TU Delft OPEN logo color</h3>
+							 
+						
+					</section>
+				</div>
+			</a>
+		
+
+						
+				
+		</div>
+	</div>
+
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+        
+    
+
+
+            
+    
+        
+                
+
+
+        
+            
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+        
+        
+    
+
+    <div id=c939767 class="t3ce    frame-type-sitetud_card 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+
+
+
+
+        
+        
+	
+	
+	
+	
+	
+
+	<div class="grid-row grid-row--halfHeight">
+		<div class="sm-12">
+			
+					
+	
+			<a href="https://filelist.tudelft.nl/Library/Themaportalen/Open.tudelft.nl/publishing/logos/TUDelft-OPEN_logo_zwart_vector.eps" class="card
+					 card--no_description
+					 
+					 card--halfHeight
+					 card--no_image">
+
+				<div class="card__contentWrapper">
+					
+	
+			<div class='card__img'></div>
+		
+
+
+					<section class='card__content'>
+						
+						<h3>TU Delft OPEN logo black vector file (eps)</h3>
+					</section>
+				</div>
+			</a>
+		
+
+				
+		</div>
+	</div>
+
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+        
+    
+
+
+            
+    
+
+
+    
+
+
+                </div>
+                <div class="xs-12 sm-6 lg-3">
+                    
+
+
+        
+
+
+    
+        
+                
+
+
+        
+            
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+        
+        
+    
+
+    <div id=c939738 class="t3ce    frame-type-sitetud_card 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+
+
+
+
+        
+        
+	
+	
+	
+	
+	
+
+	<div class="grid-row grid-row--halfHeight">
+		<div class="sm-12">
+			
+					
+							
+	
+			<a href="https://filelist.tudelft.nl/Library/Themaportalen/Open.tudelft.nl/publishing/logos/TUDelft-OPEN_logo_transparant-black.png" class="card
+					 
+					 card--halfHeight">
+
+				<div class="card__contentWrapper">
+					
+	
+			
+					<picture class="card__img card__img--939738" >
+						
+							<source media="(max-width: 40.063em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/a/8/csm_TUDelft-OPEN_logo_transparant-black_4a3629379c.webp" />
+							<source media="(max-width: 63.938em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/a/8/csm_TUDelft-OPEN_logo_transparant-black_a44148eeac.webp" />
+							<source media="(min-width: 64em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/a/8/csm_TUDelft-OPEN_logo_transparant-black_4a3629379c.webp, https://filelist.tudelft.nl/_processed_/a/8/csm_TUDelft-OPEN_logo_transparant-black_039ddd92b4.webp 1.5x" />
+						
+						
+							<img style="object-position: 50% 50%;" src="https://filelist.tudelft.nl/_processed_/a/8/csm_TUDelft-OPEN_logo_transparant-black_69dae3be59.jpg" width="960" height="387" alt="" />
+						
+					</picture>
+				
+		
+
+
+					<section class='card__content'>
+						
+						
+							<h3>TU Delft OPEN logo black</h3>
+							transparent background
+						
+					</section>
+				</div>
+			</a>
+		
+
+						
+				
+		</div>
+	</div>
+
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+        
+    
+
+
+            
+    
+        
+                
+
+
+        
+            
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+        
+        
+    
+
+    <div id=c939771 class="t3ce    frame-type-sitetud_card 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+
+
+
+
+        
+        
+	
+	
+	
+	
+	
+
+	<div class="grid-row grid-row--halfHeight">
+		<div class="sm-12">
+			
+					
+	
+			<a href="https://filelist.tudelft.nl/Library/Themaportalen/Open.tudelft.nl/publishing/logos/TUDelft-OPEN_logo_wit_vector.eps" class="card
+					 card--no_description
+					 
+					 card--halfHeight
+					 card--no_image">
+
+				<div class="card__contentWrapper">
+					
+	
+			<div class='card__img'></div>
+		
+
+
+					<section class='card__content'>
+						
+						<h3>TU Delft OPEN logo white vector (eps)</h3>
+					</section>
+				</div>
+			</a>
+		
+
+				
+		</div>
+	</div>
+
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+        
+    
+
+
+            
+    
+
+
+    
+
+
+                </div>
+                <div class="xs-12 sm-6 lg-3">
+                    
+
+
+        
+
+
+    
+        
+                
+
+
+        
+            
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+        
+        
+    
+
+    <div id=c939739 class="t3ce    frame-type-sitetud_card 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+
+
+
+
+        
+        
+	
+	
+	
+	
+	
+
+	<div class="grid-row grid-row--halfHeight">
+		<div class="sm-12">
+			
+					
+							
+	
+			<a href="https://filelist.tudelft.nl/Library/Themaportalen/Open.tudelft.nl/publishing/logos/TUDelft-OPEN_logo_transparant-wit.png" class="card
+					 
+					 card--halfHeight">
+
+				<div class="card__contentWrapper">
+					
+	
+			
+					<picture class="card__img card__img--939739" >
+						
+							<source media="(max-width: 40.063em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/5/3/csm_TUDelft-OPEN-logo_transparant-wit_e1ea6e5abe.webp" />
+							<source media="(max-width: 63.938em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/5/3/csm_TUDelft-OPEN-logo_transparant-wit_98e65e1996.webp" />
+							<source media="(min-width: 64em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/5/3/csm_TUDelft-OPEN-logo_transparant-wit_e1ea6e5abe.webp, https://filelist.tudelft.nl/_processed_/5/3/csm_TUDelft-OPEN-logo_transparant-wit_51b9adc487.webp 1.5x" />
+						
+						
+							<img style="object-position: 50% 50%;" src="https://filelist.tudelft.nl/Library/Themaportalen/Open.tudelft.nl/publishing/logos/TUDelft-OPEN-logo_transparant-wit.jpg" width="275" height="80" alt="" />
+						
+					</picture>
+				
+		
+
+
+					<section class='card__content'>
+						
+						
+							<h3>TU Delft OPEN logo white</h3>
+							transparent background
+						
+					</section>
+				</div>
+			</a>
+		
+
+						
+				
+		</div>
+	</div>
+
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+        
+    
+
+
+            
+    
+
+
+    
+
+
+                </div>
+                <div class="xs-12 sm-6 lg-3">
+                    
+
+
+        
+
+
+
+    
+
+
+                </div>
+            </div>
+        
+    
+        </div>
+    
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+        
+        
+    
+
+    <div id=c939995 class="t3ce    frame-type-gridelements_pi1 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+
+
+
+
+        
+        
+        <div class="
+                    
+                    grid-background--boxed">
+            
+            
+        
+            <div class="row    grid  layout-0">
+                <div class="xs-12 sm-6 lg-3">
+                    
+
+
+        
+
+
+    
+        
+                
+
+
+        
+            
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+        
+        
+    
+
+    <div id=c939774 class="t3ce    frame-type-sitetud_card 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+
+
+
+
+        
+        
+	
+	
+	
+	
+	
+
+	<div class="grid-row grid-row--halfHeight">
+		<div class="sm-12">
+			
+					
+							
+	
+			<a href="https://filelist.tudelft.nl/Library/Themaportalen/Open.tudelft.nl/publishing/logos/TUDelft-logo_full-color.png" class="card
+					 
+					 card--halfHeight">
+
+				<div class="card__contentWrapper">
+					
+	
+			
+					<picture class="card__img card__img--939774" >
+						
+							<source media="(max-width: 40.063em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/9/4/csm_tudelft-logo_met-blauw_564ddb11f5.webp" />
+							<source media="(max-width: 63.938em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/9/4/csm_tudelft-logo_met-blauw_235dae58d5.webp" />
+							<source media="(min-width: 64em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/9/4/csm_tudelft-logo_met-blauw_564ddb11f5.webp, https://filelist.tudelft.nl/_processed_/9/4/csm_tudelft-logo_met-blauw_f8699a761a.webp 1.5x" />
+						
+						
+							<img style="object-position: 50% 50%;" src="https://filelist.tudelft.nl/Library/Themaportalen/Open.tudelft.nl/publishing/logos/tudelft-logo_met-blauw.jpg" width="358" height="160" alt="" />
+						
+					</picture>
+				
+		
+
+
+					<section class='card__content'>
+						
+						
+							<h3>TU Delft logo color</h3>
+							 
+						
+					</section>
+				</div>
+			</a>
+		
+
+						
+				
+		</div>
+	</div>
+
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+        
+    
+
+
+            
+    
+        
+                
+
+
+        
+            
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+        
+        
+    
+
+    <div id=c939998 class="t3ce    frame-type-sitetud_card 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+
+
+
+
+        
+        
+	
+	
+	
+	
+	
+
+	<div class="grid-row grid-row--halfHeight">
+		<div class="sm-12">
+			
+					
+							
+	
+			<a href="https://filelist.tudelft.nl/Library/Themaportalen/Open.tudelft.nl/publishing/logos/licence_cc-by.png" class="card
+					 
+					 card--halfHeight">
+
+				<div class="card__contentWrapper">
+					
+	
+			
+					<picture class="card__img card__img--939998" >
+						
+							<source media="(max-width: 40.063em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/f/a/csm_licence_cc-by_d7d1e96e86.webp" />
+							<source media="(max-width: 63.938em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/f/a/csm_licence_cc-by_3497ab77b1.webp" />
+							<source media="(min-width: 64em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/f/a/csm_licence_cc-by_d7d1e96e86.webp, https://filelist.tudelft.nl/_processed_/f/a/csm_licence_cc-by_1602b6626f.webp 1.5x" />
+						
+						
+							<img style="object-position: 50% 50%;" src="https://filelist.tudelft.nl/Library/Themaportalen/Open.tudelft.nl/publishing/logos/licence_cc-by.png" width="403" height="141" alt="" />
+						
+					</picture>
+				
+		
+
+
+					<section class='card__content'>
+						
+						
+							<h3>cc-by license logo</h3>
+							 
+						
+					</section>
+				</div>
+			</a>
+		
+
+						
+				
+		</div>
+	</div>
+
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+        
+    
+
+
+            
+    
+
+
+    
+
+
+                </div>
+                <div class="xs-12 sm-6 lg-3">
+                    
+
+
+        
+
+
+    
+        
+                
+
+
+        
+            
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+        
+        
+    
+
+    <div id=c939775 class="t3ce    frame-type-sitetud_card 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+
+
+
+
+        
+        
+	
+	
+	
+	
+	
+
+	<div class="grid-row grid-row--halfHeight">
+		<div class="sm-12">
+			
+					
+							
+	
+			<a href="https://filelist.tudelft.nl/Library/Themaportalen/Open.tudelft.nl/publishing/logos/TUDelft-logo_black.png" class="card
+					 
+					 card--halfHeight">
+
+				<div class="card__contentWrapper">
+					
+	
+			
+					<picture class="card__img card__img--939775" >
+						
+							<source media="(max-width: 40.063em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/3/1/csm_tudelft-logo_zwart_7ee914d7a9.webp" />
+							<source media="(max-width: 63.938em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/3/1/csm_tudelft-logo_zwart_f4b60062f1.webp" />
+							<source media="(min-width: 64em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/3/1/csm_tudelft-logo_zwart_7ee914d7a9.webp, https://filelist.tudelft.nl/_processed_/3/1/csm_tudelft-logo_zwart_5487d676e0.webp 1.5x" />
+						
+						
+							<img style="object-position: 50% 50%;" src="https://filelist.tudelft.nl/Library/Themaportalen/Open.tudelft.nl/publishing/logos/tudelft-logo_zwart.jpg" width="351" height="151" alt="" />
+						
+					</picture>
+				
+		
+
+
+					<section class='card__content'>
+						
+						
+							<h3>TU Delft logo black</h3>
+							  
+						
+					</section>
+				</div>
+			</a>
+		
+
+						
+				
+		</div>
+	</div>
+
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+        
+    
+
+
+            
+    
+
+
+    
+
+
+                </div>
+                <div class="xs-12 sm-6 lg-3">
+                    
+
+
+        
+
+
+    
+        
+                
+
+
+        
+            
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+        
+        
+    
+
+    <div id=c939997 class="t3ce    frame-type-sitetud_card 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+
+
+
+
+        
+        
+	
+	
+	
+	
+	
+
+	<div class="grid-row grid-row--halfHeight">
+		<div class="sm-12">
+			
+					
+							
+	
+			<a href="https://filelist.tudelft.nl/Library/Themaportalen/Open.tudelft.nl/publishing/logos/TUDelft-logo_white.png" class="card
+					 
+					 card--halfHeight">
+
+				<div class="card__contentWrapper">
+					
+	
+			
+					<picture class="card__img card__img--939997" >
+						
+							<source media="(max-width: 40.063em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/5/f/csm_tudelft-logo_wit_31f79a1228.webp" />
+							<source media="(max-width: 63.938em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/5/f/csm_tudelft-logo_wit_60b956ba99.webp" />
+							<source media="(min-width: 64em)" type="image/webp" srcset="https://filelist.tudelft.nl/_processed_/5/f/csm_tudelft-logo_wit_31f79a1228.webp, https://filelist.tudelft.nl/_processed_/5/f/csm_tudelft-logo_wit_d1d4127a21.webp 1.5x" />
+						
+						
+							<img style="object-position: 50% 50%;" src="https://filelist.tudelft.nl/Library/Themaportalen/Open.tudelft.nl/publishing/logos/tudelft-logo_wit.jpg" width="275" height="80" alt="" />
+						
+					</picture>
+				
+		
+
+
+					<section class='card__content'>
+						
+						
+							<h3>TU Delft logo white</h3>
+							 
+						
+					</section>
+				</div>
+			</a>
+		
+
+						
+				
+		</div>
+	</div>
+
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+        
+    
+
+
+            
+    
+
+
+    
+
+
+                </div>
+                <div class="xs-12 sm-6 lg-3">
+                    
+
+
+        
+
+
+
+    
+
+
+                </div>
+            </div>
+        
+    
+        </div>
+    
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+			<!--TYPO3SEARCH_end-->
+		</div>
+		
+	</main>
+
+
+<footer class="pageFooter">
+	<a class="js-back_to_top" href="#" title="back_to_top">
+		<div class="btn--icon i-arrow_down"></div>
+	</a>
+	<div class='container'>
+		<div class='row'>
+			<div class="md-6 lg-6 space">
+				
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+        
+        
+    
+
+    <div id=c234396 class="t3ce    frame-type-header 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+        
+    
+        
+            
+
+    
+            <h1 class=" ">
+                Library
+            </h1>
+        
+
+
+
+            
+
+
+
+        
+    
+
+    
+
+
+
+
+        
+        
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+
+    <div  class="t3ce    frame-type-sitetud_socialmedialinks 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+
+
+
+
+        
+        
+
+    
+    
+
+	<ul class="list-inline">
+		
+			
+					<li>
+						<a href="https://www.instagram.com/tudelftlibrary/" target="_blank" class="btn--icon i-instagram" rel="noreferrer">
+							<span class="text-hide">
+								
+										instagram
+									
+							</span>
+						</a>
+					</li>
+				
+		
+			
+					<li>
+						<a href="http://twitter.com/tudelftlibrary" target="_blank" class="btn--icon i-twitter" rel="noreferrer">
+							<span class="text-hide">
+								
+										twitter
+									
+							</span>
+						</a>
+					</li>
+				
+		
+			
+					<li>
+						<a href="https://www.linkedin.com/company/tu-delft-library" target="_blank" class="btn--icon i-linkedin" rel="noreferrer">
+							<span class="text-hide">
+								
+										linkedin
+									
+							</span>
+						</a>
+					</li>
+				
+		
+			
+					<li>
+						<a href="https://www.youtube.com/channel/UCSHFQfM-eX6y6RDbEtgB18g" target="_blank" class="btn--icon i-youtube" rel="noreferrer">
+							<span class="text-hide">
+								
+										youtube
+									
+							</span>
+						</a>
+					</li>
+				
+		
+	</ul>
+
+
+
+
+
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+			</div>
+			<div class="md-6 lg-6">
+				<div class="row">
+					<div class="sm-6">
+						
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+        
+        
+    
+
+    <div id=c234399 class="t3ce    frame-type-text 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+        
+    
+        
+    
+
+    
+
+
+
+
+        
+        
+
+    <p><a href="https://map.tudelftcampus.nl/nl/poi/tu-delft-bibliotheek/" target="_blank" rel="noreferrer">Gebouw 21</a><br>Prometheusplein 1<br>2628 ZC&nbsp; Delft<br><a href="mailto:library@tudelft.nl">library@tudelft.nl</a><br>+31 (0)15 27 85678
+</p>
+<p><a href="/library/over-de-library/contact-en-bereikbaarheid">Contact en bereikbaarheid</a><br><a href="https://map.tudelftcampus.nl/" target="_blank" rel="noreferrer">Plattegrond campus</a></p>
+
+
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+					</div>
+					<div class="sm-6 right">
+						
+
+    
+            
+        
+
+    
+            
+        
+
+    
+    
+
+    
+        
+        
+    
+
+    <div id=c234402 class="t3ce    frame-type-text 
+            
+            
+            
+    ">
+        
+        
+            
+
+
+
+        
+        
+            
+
+
+        
+    
+
+    
+
+
+
+
+        
+        
+
+    <p><a href="https://map.tudelftcampus.nl/nl/poi/tu-delft-bibliotheek/" target="_blank" rel="noreferrer"><img alt="TU Delft Library" height="254" src="https://filelist.tudelft.nl/_processed_/2/7/csm_Contactinfo%20gebouw%20buitenkant_54b704d5fa.jpg" width="300"></a></p>
+
+
+        
+            
+
+
+
+        
+    </div>
+    
+        
+
+
+    
+
+    
+
+    
+
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+
+
+
+
+
+
+
+<nav class="nav-bottom">
+	<div class="container no-spacing">
+		<a class="logo left" href="/">
+			<svg focusable="false" class="logo logo-tudelft--bottom" role="img">
+				<use xlink:href="#logo"></use>
+			</svg>
+			<span class="text-hide">Home van TU Delft</span>
+		</a>
+
+		<div class="nav-main left">
+			
+				
+
+<a href="/cookiebeleid" title="Cookie-instellingen" class="cookieButton btn--icon">
+    <svg viewBox="14 13 36 44" class="cookieButton-icon">
+        <circle cx="35.709" cy="22.973" fill="currentColor" r="2"/>
+        <circle cx="41.875" cy="29.417" fill="currentColor" r="2"/>
+        <circle cx="31.709" cy="31.417" fill="currentColor" r="2"/>
+        <circle cx="24.001" cy="37.25" fill="currentColor" r="2"/>
+        <circle cx="32" cy="42.292" fill="currentColor" r="2"/>
+        <circle cx="38.875" cy="37.25" fill="currentColor" r="2"/>
+        <path d="M32 50c-9.925 0-18-8.075-18-18 0-.505.034-1.001.074-1.494a1 1 0 0 1 1.269-.882c3.594 1.016 7.107-1.47 7.578-4.963a1 1 0 0 1 .858-.857 5.948 5.948 0 0 0 3.438-1.705 5.958 5.958 0 0 0 1.756-4.241c0-.78-.15-1.542-.447-2.266a1.002 1.002 0 0 1 .776-1.369A17.78 17.78 0 0 1 32 14c9.925 0 18 8.075 18 18s-8.075 18-18 18zM16.002 31.795A14.01 14.01 0 0 0 16 32c0 8.822 7.178 16 16 16s16-7.178 16-16-7.178-16-16-16c-.396 0-.801.019-1.233.058a7.91 7.91 0 0 1 .206 1.799 7.941 7.941 0 0 1-2.342 5.656 7.914 7.914 0 0 1-3.86 2.143c-.899 3.891-4.672 6.653-8.769 6.139z" fill="currentColor"/>
+    </svg>
+</a>
+
+
+				
+
+<a href="#" class="button-reset btn--icon btn-contrast js-contrastChanger" title="Contrast-instellingen">
+    <span class="js-contrastChanger-label text-hide" data-highcontrasttext="Activeer hoog contrast" data-normalcontrasttext="Activeer normaal contrast">
+        Activeer hoog contrast
+    </span>
+    <svg role="presentation" class="icon-contrast">
+        <use xlink:href="/typo3conf/ext/tud_styling/Resources/Public/img/contrast-icon.svg#contrast-icon"></use>
+    </svg>
+</a>
+
+			
+			
+
+<div id="__ba_panel" class="js-browse-aloud">
+    
+</div>
+
+		</div>
+
+		<div class="right">
+			<div class="nav-main">
+				<ul><li class="nav-main__mainitem" data-priority="0"><a href="/library/actuele-themas/open-publishing">Home</a></li><li class="nav-main__mainitem" data-priority="0"><a href="/library/actuele-themas/open-publishing/about/about-tudop">About</a><ul class="nav-main__submenu"><li><a href="/library/actuele-themas/open-publishing/about/authors-editors-info">Authors/Editors info</a></li><li><a href="/library/actuele-themas/open-publishing/about/mission-scope">Mission</a></li><li><a href="/library/actuele-themas/open-publishing/about/partnerships">Partnerships</a></li><li><a href="/library/actuele-themas/open-publishing/about/sponsoring-and-co-creation">Sponsoring and co-creation</a></li><li><a href="/library/actuele-themas/open-publishing/about/policies">Policies</a></li><li><a href="/library/actuele-themas/open-publishing/about/our-team">Our Team</a></li><li><a href="/library/actuele-themas/open-publishing/about/advisory-board">Advisory Board</a></li><li><a href="/library/actuele-themas/open-publishing/about/board-of-editors">Board of Editors</a></li><li><a href="/library/actuele-themas/open-publishing/about/think-tank">Think Tank</a></li><li><a href="/library/actuele-themas/open-publishing/about/our-history">Our History</a></li></ul></li><li class="nav-main__mainitem" data-priority="0"><a href="/library/actuele-themas/open-publishing/contact">Contact</a></li><li class="nav-main__mainitem" data-priority="0"><a href="https://www.tudelft.nl/open-science">Open Science</a></li></ul>
+				
+
+
+    
+            
+        
+
+    
+            
+            
+        
+
+
+
+    <a href="/en/library/current-topics/open-publishing/downloads" title="Switch to the English language" class="btn--icon btn--languageSwitch" lang="en">
+        <div class="icon-languageSwitch icon-languageSwitch--nl"></div>
+    </a>
+
+
+
+				<button data-target=".nav-search" class="button-reset btn--icon i-search js-modal">
+					<span class="text-hide">Zoeken</span>
+				</button>
+			</div>
+		</div>
+	</div>
+</nav>
+
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  function waitForElementToExist(selector) {
+    return new Promise(resolve => {
+      if (document.querySelector(selector)) {
+        return resolve(document.querySelector(selector));
+      }
+
+      const observer = new MutationObserver(() => {
+        if (document.querySelector(selector)) {
+          resolve(document.querySelector(selector));
+          observer.disconnect();
+        }
+      });
+
+      observer.observe(document.body, {
+        subtree: true,
+        childList: true,
+      });
+    });
+  }
+
+  // 👇️ using the function
+  waitForElementToExist('#__ba_panel > .textDiv > .customText').then(element => {
+  	var baPanelIconWrapper = document.querySelector('#__ba_panel > .textDiv > .customText');
+	baPanelIconWrapper.innerHTML = '<svg role="presentation" style="width: 100%;height: 100%;"><use xlink:href="/typo3conf/ext/tud_styling/Resources/Public/img/browse-aloud.svg#browseAloud"></svg>';
+  });
+});
+</script>
+<!--  fix for TUD-1019 not showing icon correctly  -->
+  
+<!-- /* <div id="__ba_panel" class="btn--icon" style="width:24px; height:24px;"></div>
+<script type="text/javascript">var _baMode='https://filelist.tudelft.nl/Admin/Robin/browsealoud-headphone.png';</script>
+<!-- <script type="text/javascript" src="https://www.browsealoud.com/plus/scripts/ba.js"></script> -->
+
+<script type="text/javascript" src="https://www.browsealoud.com/plus/scripts/3.1.0/ba.js"
+crossorigin="anonymous" integrity="sha256-VCrJcQdV3IbbIVjmUyF7DnCqBbWD1BcZ/1sda2KWeFc= sha384-k2OQFn+wNFrKjU9HiaHAcHlEvLbfsVfvOnpmKBGWVBrpmGaIleDNHnnCJO4z2Y2H sha512-gxDfysgvGhVPSHDTieJ/8AlcIEjFbF3MdUgZZL2M5GXXDdIXCcX0CpH7Dh6jsHLOLOjRzTFdXASWZtxO+eMgyQ=="></script>
+  
+<script>
+window.addEventListener('DOMContentLoaded', function () {
+ $( ".nav-main.left" ).append( $("#__ba_panel") );
+}); </script>
+
+<script src="/typo3conf/ext/site_tud/Resources/Public/JavaScript/dist.javascripts.1f6a15d308.min.js" type="text/javascript"></script>
+<script>
+            document.addEventListener('DOMContentLoaded', function () {var navItem = document.getElementById('nav-overlay__mainitem--27303'), navSubItem = document.getElementById('nav-overlay__subitem--27303');if (navItem !== null) {navItem.classList.add('is-active');}if (navSubItem !== null) {navSubItem.classList.add('nav-overlay__subitem--active');}});
+        </script>
+<script>
+            document.addEventListener('DOMContentLoaded', function () {var navItem = document.getElementById('nav-overlay__mainitem--150324'), navSubItem = document.getElementById('nav-overlay__subitem--150324');if (navItem !== null) {navItem.classList.add('is-active');}if (navSubItem !== null) {navSubItem.classList.add('nav-overlay__subitem--active');}});
+        </script>
+<style>
+    .pageFooter {
+    background-image: url(https://www.tudelft.nl/typo3conf/ext/tud_styling/Resources/Public/img/torch.svg); 
+    background-repeat:no-repeat;
+	background-position: 15% 75%;
+    background-size: 250%;
+    background-blend-mode: overlay;
+  }
+  
+  .card--no_image {background-blend-mode: overlay;}
+  .flameStyle1 {background-position: 80% 40% !important; background-size: 370% !important;}
+  .flameStyle2 {background-position: 30% 35% !important; background-size: 450% !important;}
+  .flameStyle3 {background-position: 50% 50% !important; background-size: 400% !important;}
+  .flameStyle4 {background-position: 60% 70% !important; background-size: 500% !important;}
+  .flameStyle5 {background-position: 30% 80% !important; background-size: 330% !important;}
+</style>
+
+<script>
+var cards = document.querySelectorAll('.card--no_image');
+
+var i;
+for(var i = 0; i<cards.length; i++) {
+    switch (i % 5) {
+       case 0:  cards[i].className += " flameStyle1"; break;
+       case 1:  cards[i].className += " flameStyle2"; break;
+       case 2:  cards[i].className += " flameStyle3"; break;
+       case 3:  cards[i].className += " flameStyle4"; break;
+       case 4:  cards[i].className += " flameStyle5"; break;
+    }   
+}
+  
+  </script>     <script>
+     window.addEventListener('DOMContentLoaded', function ()  {
+     document.querySelectorAll(".logo-tudelft--top")?.forEach (x=> x.setAttribute("aria-label", "TU Delft homepage")); // add aria-label to top logo
+     document.querySelectorAll(".logo-tudelft--bottom")?.forEach (x=> x.setAttribute("aria-label", "TU Delft homepage")); //add aria-label to bottom logo
+//     document.getElementsByClassName("button-reset btn--icon i-search js-modal")[0].setAttribute("aria-label", "Search, Zoeken"); // add aria-label to search icon
+//     document.getElementsByClassName("button-reset btn--icon i-search js-modal")[1].setAttribute("aria-label", "Search, Zoeken"); // add aria-label to search icon
+ 
+
+document.querySelectorAll('[class*=video--popup]')?.forEach( x=> x.setAttribute("aria-label","Play video" + ", " + x.innerText)); // add 'play video' to every videoelement with additional video-title 
+    
+
+  document.querySelector(".cookieNotice")?.setAttribute("role", "dialog");   // add region to cookiestatement
+  document.querySelector(".cookieNotice")?.setAttribute("aria-label", "Cookie statement"); // add aria-label to cookiestatement
+  document.querySelector(".pageFooter")?.setAttribute("role", "region"); // add region to footer
+  document.querySelector(".pageFooter")?.setAttribute("aria-label", "Footer"); // add aria-label to footer
+
+// add tabindex=-1 to pagination (...)
+  const dots = document.querySelectorAll('ul li a'); 
+  for (let i = 0; i < dots.length; i++) {
+    if (dots[i].textContent === '...') {
+     dots[i].setAttribute("tabindex", "-1");
+    }
+  }
+                               
+// add buttontitle to carousel aria-label                         
+  document.querySelectorAll('.slick-dots button')?.forEach(button => {
+   button.setAttribute('aria-label', button.innerText + ', ' + button.getAttribute('aria-label')); 
+ });
+                          
+// set photogallery ARIA to hidden
+ document.querySelectorAll('.photoGallerySlider .slick-dots')?.forEach(ul => {
+   ul.setAttribute("aria-hidden","true");})
+
+// set ARIA label for next & previous buttons
+document.querySelectorAll(".slick-prev")?.forEach (x=> x.setAttribute("aria-label", "Vorige / Previous")); // add aria-label to top logo
+document.querySelectorAll(".slick-next")?.forEach (x=> x.setAttribute("aria-label", "Volgende / Next")); // add aria-label to top logo
+                               
+// add 'reference' to element id                               
+//document.querySelectorAll(".frame-type-shortcut [id]").forEach((element, index) => element.id += '-reference' + index);
+                          
+// header sliders WCAG
+document.querySelectorAll('.carousel')?.forEach( x=> x.setAttribute("role","region"));	
+document.querySelectorAll('.carousel')?.forEach( x=> x.setAttribute("aria-label","Header carousel"));	
+
+document.querySelectorAll(".menu.js-toggle")?.forEach ( x=> x.setAttribute("aria-label", "Menu")); // Set ARIA label of patty menu                          
+                          
+// wis alle filters aria labels/role
+                          
+var list = document.querySelector(".lookup-usedFilters");
+if (list && list.childElementCount !== 0) {
+    // It has at least one element as a child
+    list.setAttribute("role", "list");
+} else if (list && list.childElementCount === 0) {
+    list.setAttribute("role", "none");
+}
+  
+// fix profilecard UL   
+var profilecard = document.querySelectorAll(".profile__contactdata");
+for (i = 0; i < profilecard.length; i++) {
+if (profilecard[i] && profilecard[i].childElementCount !== 0) {
+    // It has at least one element as a child
+    profilecard[i].setAttribute("role", "list");
+} else if (profilecard[i] && profilecard[i].childElementCount === 0) {
+    profilecard[i].setAttribute("role", "none");
+}}    
+
+// fix aside UL   
+var navaside = document.querySelectorAll(".nav-aside ul");
+for (i = 0; i < navaside.length; i++) {
+if (navaside[i] && navaside[i].childElementCount !== 0) {
+    // It has at least one element as a child
+    navaside[i].setAttribute("role", "list");
+} else if (navaside[i] && navaside[i].childElementCount === 0) {
+    navaside[i].setAttribute("role", "none");
+}}
+                               
+// Set aria label for to top links
+// Todo: remove childnode <span class="hide">To top</span>
+document.querySelectorAll(".csc-linkToTop .uparrow").forEach(x => x.setAttribute("aria-label", "To top"));
+
+// Set tabindex of photo gallery slider to -1
+document.querySelectorAll(".photoGalleryNavSlider-item").forEach(x => x.setAttribute("tabindex", -1))
+document.querySelectorAll(".slick-slide").forEach(x => x.setAttribute("tabindex", -1))
+                 
+// Remove empty header in carousel
+document.querySelectorAll(".frame-type-sitetud_carousel h3:empty").forEach(x => x.remove())
+document.querySelectorAll(".frame-type-sitetud_carousel .slick-dots").forEach(x => x.style.marginTop = "3rem")
+  
+// Empty H2 in Lookup results if screen reader header is not entered
+document.querySelectorAll("h2.show-for-sr:empty").forEach(x => x.remove())
+
+// Empty H2 in Lookup results if agenda__month header is not entered
+document.querySelectorAll(".agenda .agenda__month:empty").forEach(x => x.remove())
+
+document.querySelectorAll(".filters-column").forEach((el, index) => {
+	let id = `formFieldId${index}`
+	el.querySelector("select").setAttribute("aria-labelledby",id)
+	el.querySelector("span").setAttribute("id",id)
+})
+
+}, false);
+
+</script><script type="text/javascript">			if (window.require && window.$ && window.isLumesseApplyPage) {
+				$.getScript('/typo3conf/ext/site_tud/Resources/Public/JavaScript/TalentLink.js')
+			};</script>
+</body>
+</html>

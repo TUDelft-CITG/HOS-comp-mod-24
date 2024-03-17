@@ -1,5 +1,5 @@
 ---
-title: Computational Dynamics Course - HOS
+title: 1) Unit Information - Computational Dynamics Course
 layout: home
 ---
 
