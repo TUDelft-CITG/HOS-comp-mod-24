@@ -7,3 +7,5 @@ gem "just-the-docs", "0.8.1" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
 gem "jekyll-default-layout"
+
+gem 'wdm'
