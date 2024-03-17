@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Computational Dynamics Course - HOS
 layout: home
 ---
 
