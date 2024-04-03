@@ -2,7 +2,8 @@ title: CIEM42X0
 description: computational Modeling for HOS Students
 theme: just-the-docs
 
-url: https://tudelft-citg.github.io/computationaldynamics.github.io
+baseurl: '/computationaldynamics.github.io'
+url: 'https://tudelft-citg.github.io'
 
 # Set a path/url to a logo that will be displayed instead of the title
 favicon_ico:: "favicon.ico"
