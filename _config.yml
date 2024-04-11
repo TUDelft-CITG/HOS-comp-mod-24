@@ -48,12 +48,12 @@ color_scheme: light
 heading_anchors: true
 
 callouts:
+  learningobjectives:
+    title: Learning Objectives
+    color: green
+  content:
+    title: Content
+    color: purple
   exercises:
     title: Exercises
-    color: green
-  important:
-    title: Important
-    color: purple
-  takeaways:
-    title: Take aways
     color: blue

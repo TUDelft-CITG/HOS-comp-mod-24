@@ -11,14 +11,24 @@ This page gives an overview of the in-class sessions, homework assignments and r
 
 ### [Week 1](Weeks/Week1.html)
 
+At the end of this week you will be able to: <br>
+Define and analyse numerical methods to solve Ordinary Differential Equations (ODEs). This entails:<br>
+<b>1.Define a simple solver to approximate solutions of ODEs based on Taylor Series</b> <br>
+2.Quantify the numerical error of an approximated solution <br>
+3.Define adaptive time stepping approaches to control the numerical error <br>
+4.Distinguish between different ODE solvers <br>
+{: .learningobjectives }
+
+1.[Google](https://www.google.com)<br>
+2.[OpenAI](https://www.openai.com)<br>
+3.[GitHub](https://www.github.com)<br>
+{: .content }
+
+
+1.[Google](https://www.google.com)<br>
+2.[OpenAI](https://www.openai.com)<br>
+3.[GitHub](https://www.github.com)<br>
 {: .exercises }
-A paragraph... test
-
-{: .important }
-A paragraph...
-
-{: .takeaways }
-A paragraph...
 
 ### [Week 2](Weeks/Week2.html)
 ### [Week 3](Weeks/Week3.html)
