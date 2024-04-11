@@ -12,7 +12,7 @@ This page gives an overview of the in-class sessions, homework assignments and r
 ### [Week 1](Weeks/Week1.html)
 
 {: .exercises }
-A paragraph...
+A paragraph... test
 
 {: .important }
 A paragraph...
