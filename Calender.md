@@ -19,15 +19,15 @@ Define and analyse numerical methods to solve Ordinary Differential Equations (O
 4.Distinguish between different ODE solvers <br>
 {: .learningobjectives }
 
-1.[Google](https://www.google.com)<br>
-2.[OpenAI](https://www.openai.com)<br>
-3.[GitHub](https://www.github.com)<br>
+Week 1. Computational methods for ODEs (pdf link):
+- [Introduction to numerical methods for ODEs (7.1.1)](https://www.google.com)<br>
+- [Taylor series (7.1.2)](https://www.google.com)<br>
+- [ODE solvers (7.1.3)](https://www.google.com)<br>
+- [Error and stability (7.1.4)  --> workshop 1](https://www.google.com)<br>
+- [Error control (7.1.5)](https://www.google.com)<br>
 {: .content }
 
-
-1.[Google](https://www.google.com)<br>
-2.[OpenAI](https://www.openai.com)<br>
-3.[GitHub](https://www.github.com)<br>
+- [Tutorial ODE Solver](https://www.google.com)<br>
 {: .exercises }
 <<<<<<< HEAD
 A paragraph... test test
