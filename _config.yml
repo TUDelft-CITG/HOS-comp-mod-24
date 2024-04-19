@@ -2,8 +2,7 @@ title: CIEM42X0
 description: computational Modeling for HOS Students
 theme: just-the-docs
 
-baseurl: '/computationaldynamics.github.io'
-url: 'https://tudelft-citg.github.io'
+url: https://kareemlsd.github.io/computationaldynamics.github.io
 
 # Set a path/url to a logo that will be displayed instead of the title
 favicon_ico:: "favicon.ico"
@@ -48,12 +47,12 @@ color_scheme: light
 heading_anchors: true
 
 callouts:
+  learningobjectives:
+    title: Learning Objectives
+    color: green
+  content:
+    title: Content
+    color: purple
   exercises:
     title: Exercises
-    color: green
-  important:
-    title: Important
-    color: purple
-  takeaways:
-    title: Take aways
     color: blue
