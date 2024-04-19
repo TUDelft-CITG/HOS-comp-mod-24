@@ -8,7 +8,7 @@ url: https://kareemlsd.github.io/computationaldynamics.github.io/
 favicon_ico:: "favicon.ico"
 
 aux_links:
-  ComModHos Book : https://teachbooks.tudelft.nl/computational-modelling/intro.html
+  Finite Element Book : https://teachbooks.tudelft.nl/computational-modelling/intro.html
 
 # Enable or disable the site search
 # Supports true (default) or false
