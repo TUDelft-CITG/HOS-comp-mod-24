@@ -29,16 +29,6 @@ Week 1. Computational methods for ODEs (pdf link):
 
 - [Tutorial ODE Solver](https://www.google.com)<br>
 {: .exercises }
-<<<<<<< HEAD
-A paragraph... test test
-
-{: .important }
-A paragraph...
-
-{: .takeaways }
-A paragraph...
-=======
->>>>>>> 4480503f1c4c130742851fc83885e3784aa0ce5b
 
 ### [Week 2](Weeks/Week2.html)
 ### [Week 3](Weeks/Week3.html)
