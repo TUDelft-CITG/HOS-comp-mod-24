@@ -1,6 +1,6 @@
 title: CIEM42X0
 description: computational Modeling for HOS Students
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.5.2
 
 url: https://kareemlsd.github.io/computationaldynamics.github.io
 

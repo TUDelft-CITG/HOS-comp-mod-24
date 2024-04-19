@@ -27,7 +27,7 @@ Week 1. Computational methods for ODEs (pdf link):
 - [Error control (7.1.5)](https://www.google.com)<br>
 {: .content }
 
-- [Tutorial ODE Solver](https://www.google.com)<br>
+- [Tutorial ODE Solver](https://www.google.com)<br> 
 {: .exercises }
 
 ### [Week 2](Weeks/Week2.html)
