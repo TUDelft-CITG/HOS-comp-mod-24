@@ -19,15 +19,15 @@ Define and analyse numerical methods to solve Ordinary Differential Equations (O
 <i>4. Distinguish between different ODE solvers</i><br>
 {: .learningobjectives }
 
-Week 1. Computational methods for ODEs [pdf](https://surfdrive.surf.nl/files/index.php/s/Jm8e95QGRS97bDq/download?path=%2FWeek1&files=1_1_Computational_methods_for_ODEs.pdf)<br>:
-- [Introduction to numerical methods for ODEs](https://www.google.com)<br>
-- [Taylor series](https://www.google.com)<br>
-- [ODE solvers](https://www.google.com)<br>
-- [Error and stability](https://www.google.com)<br>
-- [Error control](https://www.google.com)<br>
+Week 1. Computational methods for ODEs [[pdf]](https://surfdrive.surf.nl/files/index.php/s/Jm8e95QGRS97bDq/download?path=%2FWeek1&files=1_1_Computational_methods_for_ODEs.pdf):<br>
+[Introduction to numerical methods for ODEs](https://www.google.com)<br>
+[Taylor series](https://www.google.com)<br>
+[ODE solvers](https://www.google.com)<br>
+[Error and stability](https://www.google.com)<br>
+[Error control](https://www.google.com)<br>
 {: .content }
 
-- [Tutorial ODE Solver](https://www.google.com)<br> 
+[Tutorial ODE Solver](https://www.google.com)<br> 
 {: .exercises }
 
 ### [Week 2](Weeks/Week2.html)
