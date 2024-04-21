@@ -4,7 +4,7 @@ remote_theme: just-the-docs/just-the-docs@v0.5.2
 
 url: https://tudelft-citg.github.io/HOS-comp-mod-24
 
-# Set a path/url to a logo that will be displayed instead of the title
+# Set a path/url to a logo that will be displayed instead of the  title
 favicon_ico:: "favicon.ico"
 
 aux_links:
