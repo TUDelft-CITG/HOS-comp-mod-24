@@ -3,7 +3,6 @@ title: Computational Modelling of Hydraulic and Offshore Structures
 layout: home
 nav_order: 1
 --- 
-# Information about this Unit/Course
 
 The *Computational Modelling* unit is part of all modules B in the **Hydraulic and Offshore Structures** track, embedded in the modules:  
 
