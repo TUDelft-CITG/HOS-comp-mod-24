@@ -9,17 +9,6 @@ description: >-
 <!-- <a href="" target="_blank">link</a> -->
 <!-- <a href="https://tudelft-citg.github.io/HOS-prob-design/intro.html" target="_blank">HOS book</a> -->
 
-# Information About This Unit
-{:.no_toc}
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
 # Information about this Unit/Course
 
 The *Computational Modelling* unit is part of all modules B in the **Hydraulic and Offshore Structures** track, embedded in the modules:  
