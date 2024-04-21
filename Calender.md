@@ -20,14 +20,14 @@ Define and analyse numerical methods to solve Ordinary Differential Equations (O
 {: .learningobjectives }
 
 Week 1. Computational methods for ODEs [[pdf]](https://surfdrive.surf.nl/files/index.php/s/Jm8e95QGRS97bDq/download?path=%2FWeek1&files=1_1_Computational_methods_for_ODEs.pdf):<br>
-[Introduction to numerical methods for ODEs](https://www.google.com)<br>
-[Taylor series](https://www.google.com)<br>
-[ODE solvers](https://www.google.com)<br>
-[Error and stability](https://www.google.com)<br>
-[Error control](https://www.google.com)<br>
+[Introduction to numerical methods for ODEs](https://teachbooks.tudelft.nl/computational-modelling/dynamics/ODEs/Introduction.html)<br>
+[Taylor series](https://teachbooks.tudelft.nl/computational-modelling/dynamics/ODEs/Taylor-series.html)<br>
+[ODE solvers](https://teachbooks.tudelft.nl/computational-modelling/dynamics/ODEs/Solvers.html)<br>
+[Error and stability](https://teachbooks.tudelft.nl/computational-modelling/dynamics/ODEs/Error_stability.html )<br>
+[Error control](https://teachbooks.tudelft.nl/computational-modelling/dynamics/ODEs/Error_control.html)<br>
 {: .content }
 
-[Workshop: ODE Solver](https://www.google.com)<br> 
+[Workshop: ODE Solver](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/w1_t1.html)<br> 
 {: .exercises }
 
 ### [Week 2](Weeks/Week2.html)
