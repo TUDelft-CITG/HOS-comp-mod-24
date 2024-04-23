@@ -1,7 +1,7 @@
 ---
 title: Forms of instruction and materials
 layout: default
-nav_order: 2
+nav_order: 5
 ---
 
 # Forms of instruction
