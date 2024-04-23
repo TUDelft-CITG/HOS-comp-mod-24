@@ -1,7 +1,7 @@
 ---
 title: Week 1
 layout: default
-parent: 2) Calender
+parent: Calendar
 nav_order: 2
 ---
 
@@ -23,5 +23,5 @@ Week 1. Computational methods for ODEs [[pdf]](https://surfdrive.surf.nl/files/i
 [Error control](https://teachbooks.tudelft.nl/computational-modelling/dynamics/ODEs/Error_control.html)<br>
 {: .content }
 
-[Workshop: ODE Solver](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/w1_t1.html)<br> 
+[Workshop: ODE Solver](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/w1_t1.html)<br>
 {: .exercises }
