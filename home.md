@@ -1,11 +1,11 @@
 ---
 layout: home
-title: CIE42X0 Comp Modelling
+title: CIEM42X0 Comp. Modelling
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: CIE42X0 Computational Modelling course materials
+  name: CIEM42X0 Computational Modelling course materials
 ---
 
 # Welcome to {{ site.tagline }}
