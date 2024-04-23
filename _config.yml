@@ -40,6 +40,42 @@ aux_links:
     - 'https://tudelft-citg.github.io/HOS-prob-design-24/'
   Online Textbook:
     - 'https://teachbooks.tudelft.nl/computational-modelling/intro.html'
+aux_links_new_tab: true
+footer_content: 'Oriol Colomés &copy; 2024 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
+
+# Collections for website data
+collections:
+  staffers:
+  modules:
+  announcements:
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      height: 300
+      subpath: '/assets/images/'
+      width: 300
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
 
 callouts:
   learningobjectives:
