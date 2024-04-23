@@ -3,11 +3,16 @@ layout: page
 title: Calendar
 nav_order: 2
 description: Listing of course modules and topics.
+has_children: true
 ---
 # Calendar
 
-This page gives an overview of the in-class sessions, homework assignments and reading material. See the [About](about.md) page for more information about the unit.
+Use the links below or the sub-pages on the left side of this website to find an overview of the in-class sessions, homework assignments and reading material.
 
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
+Here is another useful link to the [Unit Information page](about.md).
+
+The topics covered in each week are:
+
+- xxx
+- xxx
+- 
