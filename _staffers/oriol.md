@@ -1,9 +1,8 @@
 ---
-name: Robert Lanzafame
+name: Oriol Colomes
 role: Instructor
 pronouns: Primary Instructor
-email: R.C.Lanzafame@tudelft.nl
-photo: robert.JPG
+email: J.O.ColomesGene@tudelft.nl
 ---
 
 <!-- [Schedule an appointment](#){: .btn .btn-outline } -->

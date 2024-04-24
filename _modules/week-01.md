@@ -1,5 +1,5 @@
 ---
-title: "Week 1: Introduction Unit CIEM42X0-PD and Reliablity-Based Design"
+title: "Week 1: Introduction Unit CIEM42X0-CM"
 ---
 
 <!-- This will make a piece of text, followed by a button that is a hyperlink that opens in a new tab -->
