@@ -1,7 +1,6 @@
 ---
 name: Kareem El Sayed
 role: Teaching Assistant
-pronouns: Teaching Assistant
 email: kelsayed@tudelft.nl
 ---
 
