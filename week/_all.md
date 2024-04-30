@@ -3,7 +3,7 @@ layout: page
 title: All Weeks
 nav_order: 1
 description: Listing of course modules and topics.
-parent: Calendar
+parent: 2) Calendar
 ---
 
 # Overview of All Weeks
