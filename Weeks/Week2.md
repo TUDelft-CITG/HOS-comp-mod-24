@@ -14,7 +14,7 @@ Defining and solving an Equation of Motion using the Lagrangian approach. This e
 <i>3. Solve Equation of Motion using numerical methods</i><br>
 {: .learningobjectives }
 
-Week 1. Computational methods for rigid body dynamics [[pdf]](https://surfdrive.surf.nl/files/index.php/s/Jm8e95QGRS97bDq/download?path=%2FWeek2&files=2_1_Dynamics_of_rigid_bodies.pdf):<br>
+Week 2. Computational methods for rigid body dynamics [[pdf]](https://surfdrive.surf.nl/files/index.php/s/Jm8e95QGRS97bDq/download?path=%2FWeek2&files=2_1_Dynamics_of_rigid_bodies.pdf):<br>
 {: .content }
 
 [Workshop 2](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/w2_t1.html)<br>
