@@ -14,6 +14,7 @@ Here is another useful link to the [Unit Information page](info.md).
 The topics covered in each week are:
 - Week 1: Computational Methods for ODEs
 - Week 2: Computational methods for rigid body dynamics
+- Week 3: Computational methods for Partial Differential Equations
 
 <!-- - Week 2:
 - Week 3:
