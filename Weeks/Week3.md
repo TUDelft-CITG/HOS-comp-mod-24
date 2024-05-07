@@ -1,7 +1,7 @@
 ---
 title: Week 3
 layout: default
-parent: Calender
+parent: Calendar
 nav_order: 3
 ---
 
