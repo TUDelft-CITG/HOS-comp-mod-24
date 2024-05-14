@@ -1,11 +1,24 @@
 ---
-title: Week 4
-layout: default
-parent: Calendar
-nav_order: 5
+title: "Week 4: Numerical methods for time-dependent Partial Differential Equations in 2D"
 ---
 
-# Week 4
+<!-- This will make a piece of text, followed by a button that is a hyperlink that opens in a new tab -->
+<!-- In-Class Session <a href="https://tudelft-citg.github.io/HOS-prob-design/homework/HW_05_assignment.html" target="_blank">HW 5 Due</a>{: .label .label-red } -->
+
+Lecture
+: Numerical methods for time-dependent PDEs in 2D
+  <br><em>Wednesday, 08:45-12:45, Flux Hall D</em>
+
+Homework
+: Study content of week 4
+
+Workshop
+: Workshop: FEM for Linear Elasticity
+  <br><em>Wednesday, 08:45-12:45, Flux Hall D</em>
+  <br><em>Thursday, 13:45-15:45, Flux Hall D</em>
+
+<!-- Holidays
+: None -->
 
 At the end of this week you will be able to: <br>
 Define and analyse numerical methods to solve systems governed by Partial Differential Equations in 2-dimensional domains. This entails:<br>
