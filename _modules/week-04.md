@@ -29,9 +29,9 @@ Define and analyse numerical methods to solve systems governed by Partial Differ
 {: .learningobjectives }
 
 Week 4. Computational methods for time-dependent Partial Differential Equations in 2D [[pdf]](https://surfdrive.surf.nl/files/index.php/s/Jm8e95QGRS97bDq/download?path=%2FWeek4&files=4_1_Numerical_methods_for_PDEs_in%202D.pdf):<br>
-<i>1. Isoparametric mapping [2.8](https://teachbooks.tudelft.nl/computational-modelling/introduction/isoparametric mapping.html)</i> <br>
+<i>1. Isoparametric mapping [2.8](https://teachbooks.tudelft.nl/computational-modelling/introduction/isoparametric_mapping.html)</i> <br>
 <i>2. Numerical integration [2.6](https://teachbooks.tudelft.nl/computational-modelling/introduction/numerical_integration.html)</i> <br>
 {: .content }
 
-[Workshop 1](https://teachbooks.tudelft.nl/computational-modelling/contiuum_linear/Exercises/Workshop_FEM_Linear_Elasticity.html)<br>
+[Workshop 1](https://teachbooks.tudelft.nl/computational-modelling/continuum_linear/Exercises/Workshop_FEM_Linear_Elasticity.html)<br>
 {: .exercises }

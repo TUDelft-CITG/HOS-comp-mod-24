@@ -1,11 +1,24 @@
 ---
-title: Week 5
-layout: default
-parent: Calendar
-nav_order: 6
+title: "Week 5: Modal analysis for time-dependent Partial Differential Equations"
 ---
 
-# Week 5
+<!-- This will make a piece of text, followed by a button that is a hyperlink that opens in a new tab -->
+<!-- In-Class Session <a href="https://tudelft-citg.github.io/HOS-prob-design/homework/HW_05_assignment.html" target="_blank">HW 5 Due</a>{: .label .label-red } -->
+
+Lecture
+: Modal analysis for time-dependent Partial Differential Equations
+  <br><em>Wednesday, 08:45-12:45, CEG 1.98</em>
+
+Homework
+: Study content of week 5
+
+Workshop
+: Workshop: Modal Analysis for FEM
+  <br><em>Wednesday, 08:45-12:45, CEG 1.98</em>
+  <br><em>Thursday, 13:45-15:45, Flux Hall D</em>
+
+<!-- Holidays
+: None -->
 
 At the end of this week you will be able to: <br>
 Define numerical methods to perform a modal analysis of systems governed by Partial Differential Equations. This entails:<br>
