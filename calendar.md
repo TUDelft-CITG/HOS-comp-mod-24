@@ -16,6 +16,8 @@ The topics covered in each week are:
 - Week 2: Computational methods for rigid body dynamics
 - Week 3: Computational methods for Partial Differential Equations
 - Week 4: Computational methods for Partial Differential Equations in 2D
+- Week 5: Modal analysis for time-dependent Partial Differential Equations
+- Week 6: Geometrically nonlinear structures
 
 <!-- - Week 2:
 - Week 3:

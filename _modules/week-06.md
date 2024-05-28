@@ -1,11 +1,24 @@
 ---
-title: Week 6
-layout: default
-parent: Calendar
-nav_order: 7
+title: "Week 6: Geometrically Nonlinear Structures"
 ---
 
-# Week 6
+<!-- This will make a piece of text, followed by a button that is a hyperlink that opens in a new tab -->
+<!-- In-Class Session <a href="https://tudelft-citg.github.io/HOS-prob-design/homework/HW_05_assignment.html" target="_blank">HW 5 Due</a>{: .label .label-red } -->
+
+Lecture
+: Geometrically Nonlinear Structures
+  <br><em>Wednesday, 08:45-12:45, Flux Hall D</em>
+
+Homework
+: Study content of week 6
+
+Workshop
+: Workshop: Workshop 1 (Static String), Workshop 2 (Expanded Static String), Workshop 6 (Dynamic String)
+  <br><em>Wednesday, 08:45-12:45, Flux Hall D</em>
+  <br><em>Thursday, 13:45-15:45, Flux Hall D</em>
+
+<!-- Holidays
+: None -->
 
 At the end of this week you will be able to: <br>
 Define numerical methods to analyse systems governed by nonlinear Partial Differential Equations. This entails:<br>
