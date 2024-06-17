@@ -7,7 +7,7 @@ nav_order: 3
 
 # Week 2
 
-At the end of this week you will be able to: <br>
+At the end of this week you will be able to : <br>
 Defining and solving an Equation of Motion using the Lagrangian approach. This entails:<br>
 <i>1. Recognize structural elements and understand their contribution in the Equation of Motion</i><br>
 <i>2. Deriving the Equation of Motion using Lagrangian approach</i> <br>
