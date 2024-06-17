@@ -17,8 +17,8 @@ Defining and solving an Equation of Motion using the Lagrangian approach. This e
 Week 2. Computational methods for rigid body dynamics [[pdf]](https://surfdrive.surf.nl/files/index.php/s/Jm8e95QGRS97bDq/download?path=%2FWeek2&files=2_1_Dynamics_of_rigid_bodies.pdf):<br>
 {: .content }
 
-[Workshop 2](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/Workshop_Linearizing_EOM.html)<br>
-[Workshop 3](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/Workshop_EOM_Pendulum.html)<br>
-[Workshop 4](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/Workshop_EOM_2DOF.html)<br>
-[Workshop 5](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/Workshop_EOM_4DOF.html)<br>
+[Workshop 2](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/ode_solvers_workshops/Workshop_Linearizing_EOM.html)<br>
+[Workshop 3](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/ode_solvers_workshops/Workshop_EOM_Pendulum.html)<br>
+[Workshop 4](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/ode_solvers_workshops/Workshop_EOM_2DOF.html)<br>
+[Workshop 5](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/ode_solvers_workshops/Workshop_EOM_4DOF.html)<br>
 {: .exercises }

@@ -22,7 +22,7 @@ Week 3. Computational methods for time-dependent Partial Differential Equations 
 <i>4. Theory: Space frames [4.3](https://teachbooks.tudelft.nl/computational-modelling/structural_linear/space_frame.html)</i> <br>
 {: .content }
 
-[Workshop 1](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/Workshop_FEM_dyn_rod.html)<br>
-[Workshop 2](https://teachbooks.tudelft.nl/computational-modelling/structural_linear/Exercises/Workshop_FEM_dyn_beam.html)<br>
-[Workshop 3](https://teachbooks.tudelft.nl/computational-modelling/structural_linear/Exercises/Workshop_FEM_dyn_space_frames.html)<br>
+[Workshop 1](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/str_elem_dyn_workshops/Workshop_FEM_dyn_rod.html)<br>
+[Workshop 2](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/str_elem_dyn_workshops/Workshop_FEM_dyn_beam.html)<br>
+[Workshop 3](https://teachbooks.tudelft.nl/computational-modelling/dynamics/Exercises/str_elem_dyn_workshops/Workshop_FEM_dyn_space_frames.html)<br>
 {: .exercises }
